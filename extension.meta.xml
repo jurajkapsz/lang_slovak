@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="lang_slovak" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Language: Slovak</name>
+	<description>Slovak translation for Symphony</description>
+	<repo type="github">https://github.com/jurajkapsz/lang_slovak</repo>
+	<types>
+		<type>Translations</type>
+	</types>
+	<authors>
+		<author>
+			<name github="jurajkapsz" symphony="juro">Juraj Kapsz</name>
+			<website>http://jurajkapsz.sk</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2013-09-22" min="2.3">
+			* Initial release
+			* Compatible with Symphony 2.3 and up
+		</release>
+	</releases>
+</extension>
