@@ -6,6 +6,9 @@
 	<types>
 		<type>Translations</type>
 	</types>
+	<media>
+	    <item type="image" url="http://jurajkapsz.sk/workspace/media/repos/lang_slovak.png">System Language Setup.</item>
+    </media>
 	<authors>
 		<author>
 			<name github="jurajkapsz" symphony="juro">Juraj Kapsz</name>
