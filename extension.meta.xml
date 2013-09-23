@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension id="lang_slovak" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Language: Slovak</name>
-	<description>Slovak translation for Symphony</description>
+	<description lang="en">Slovak translation for Symphony</description>
+	<description lang="sk">Slovenský preklad Symphony</description>
 	<repo type="github">https://github.com/jurajkapsz/lang_slovak</repo>
+	<url type="discuss">http://www.getsymphony.com/discuss/thread/103579/</url>
 	<types>
 		<type>Translations</type>
 	</types>
