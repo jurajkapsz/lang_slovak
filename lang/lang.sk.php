@@ -1,4 +1,4 @@
-p<?php
+<?php
 
 	$about = array(
 		'name' => 'Slovensky',

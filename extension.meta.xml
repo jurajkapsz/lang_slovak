@@ -18,7 +18,7 @@
 		</author>
 	</authors>
 	<releases>
-		<release version="1.0.1" date="2013-09-24" min="2.3">
+		<release version="1.0.2" date="2013-09-24" min="2.3">
 			* Important bug fixes in translation
 		</release>
 		<release version="1.0" date="2013-09-22" min="2.3" max="2.3.x">
