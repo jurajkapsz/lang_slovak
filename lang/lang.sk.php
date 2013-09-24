@@ -1,4 +1,4 @@
-<?php
+p<?php
 
 	$about = array(
 		'name' => 'Slovensky',
@@ -7,7 +7,7 @@
 			'email' => 'hi@jurajkapsz.sk',
 			'website' => 'http://jurajkapsz.sk'
 		),
-		'release-date' => '2013-09-22'
+		'release-date' => '2013-09-24'
 	);
 
 	/**
@@ -1260,7 +1260,7 @@
 		'%s Zobraziť v prehľade záznamov',
 
 		'%s Display relationship in entries table %s' =>
-		'%s Zobraziť vzťahy v prehľade záznamov %s',
+		'%s Zobraziť prepojenie v prehľade záznamov %s',
 
 		'Invalid element name. Must be valid %s.' =>
 		'Názov značky má nesprávny formát. Musí zodpovedať %s.',
@@ -1503,13 +1503,13 @@
 		'Nie',
 
 		'%s Checked by default' =>
-		'Predvolene zaškrtnuté',
+		'%s Predvolene zaškrtnuté',
 
 		'Date' =>
 		'Dátum',
 
 		'%s Pre-populate with current date' =>
-		'Predvyplniť dnešným dátumom',
+		'%s Predvyplniť dnešným dátumom',
 
 		'The date specified in ‘%s’ is invalid.' =>
 		'Zadaný dátum v ‘%s’ je v nesprávnom formáte.',
@@ -1882,6 +1882,8 @@
 
 		'this' =>
 		'tento',
+
+        // Namespace
 
 		'/blueprints/datasources' => array(
 
