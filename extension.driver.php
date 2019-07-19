@@ -45,7 +45,7 @@
 			Symphony::Configuration()->set('date_format', $date, 'lang-slovak-storage');
 			Symphony::Configuration()->set('time_format', $time, 'lang-slovak-storage');
 			Symphony::Configuration()->set('datetime_separator', $separator, 'lang-slovak-storage');
-			Administration::instance()->saveConfig();
+			Symphony::Configuration()->write();
 		}
 
 		public function enable(){
@@ -63,7 +63,7 @@
 
 			// Remove storage
 			Symphony::Configuration()->remove('lang-slovak-storage');
-			Administration::instance()->saveConfig();
+			Symphony::Configuration()->write();
 		}
 
 		/**
@@ -75,7 +75,7 @@
 			Symphony::Configuration()->set('date_format', 'j.n.Y', 'region');
 			Symphony::Configuration()->set('time_format', 'G:i', 'region');
 			Symphony::Configuration()->set('datetime_separator', ', ', 'region');
-			Administration::instance()->saveConfig();
+			Symphony::Configuration()->write();
 		}
 
 		/**
@@ -92,7 +92,7 @@
 			Symphony::Configuration()->set('date_format', $date, 'region');
 			Symphony::Configuration()->set('time_format', $time, 'region');
 			Symphony::Configuration()->set('datetime_separator', $separator, 'region');
-			Administration::instance()->saveConfig();
+			Symphony::Configuration()->write();
 		}
 
 	}
