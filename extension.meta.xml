@@ -9,20 +9,29 @@
 		<type>Translations</type>
 	</types>
 	<media>
-	    <item type="image" url="http://jurajkapsz.sk/workspace/media/repos/lang_slovak.png">System Language Setup.</item>
+	    <item type="image" url="https://static.jurajkapsz.sk/repos/lang_slovak/lang_slovak.png">System Language Setup.</item>
     </media>
 	<authors>
 		<author>
 			<name github="jurajkapsz" symphony="juro">Juraj Kapsz</name>
-			<website>http://jurajkapsz.sk</website>
+			<website>https://jurajkapsz.sk</website>
 		</author>
 	</authors>
 	<releases>
+		<release version="2.0.0" date="2019-07-19" min="2.7.0" max="2.7.x">
+			<![CDATA[
+- Complete review; Updates for Symphony v2.7x
+			]]>
+		</release>
 		<release version="1.0.2" date="2013-09-24" min="2.3">
-			* Important bug fixes in translation
+			<![CDATA[
+- Important bug fixes in translation
+			]]>
 		</release>
 		<release version="1.0" date="2013-09-22" min="2.3" max="2.3.x">
-			* Initial release
+			<![CDATA[
+- Initial release
+			]]>
 		</release>
 	</releases>
 </extension>
