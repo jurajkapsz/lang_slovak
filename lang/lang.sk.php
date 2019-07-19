@@ -5,9 +5,9 @@
 		'author' => array(
 			'name' => 'Juraj Kapsz',
 			'email' => 'hi@jurajkapsz.sk',
-			'website' => 'http://jurajkapsz.sk'
+			'website' => 'https://jurajkapsz.sk'
 		),
-		'release-date' => '2013-09-24'
+		'release-date' => '2019-07-19'
 	);
 
 	/**
@@ -17,1891 +17,2180 @@
 
 		// Missing
 
-		'Are you sure you want to proceed?' =>
-		'Chcete naozaj pokračovať?',
+		'Are you sure you want to proceed?' => 
+		'Naozaj chcete pokračovať?',
 
-		'Reordering was unsuccessful.' =>
-		'Zmena usporiadania nebola úspešná.',
+		'Reordering was unsuccessful.' => 
+		'Usporiadanie sa nepodarilo zmeniť.',
 
-		'Change Password' =>
+		'Change Password' => 
 		'Zmeniť heslo',
 
-		'Remove File' =>
+		'Remove File' => 
 		'Odstrániť súbor',
 
-		'Untitled Field' =>
+		'Untitled Field' => 
 		'Pole bez názvu',
 
-		'The field “{$title}” ({$type}) has been removed.' =>
+		'The field “{$title}” ({$type}) has been removed.' => 
 		'Pole “{$title}” ({$type}) bolo odstránené.',
 
-		'Undo?' =>
+		'Undo?' => 
 		'Obnoviť?',
 
-		'unnamed' =>
+		'untitled' => 
 		'bez názvu',
 
-		'Expand all fields' =>
-		'Rozbaliť všetky polia',
+		'Expand all' => 
+		'Rozbaliť všetko',
 
-		'Collapse all fields' =>
-		'Zbaliť všetky polia',
+		'Collapse all' => 
+		'Zbaliť všetko',
 
-		'Add item' =>
-		'Pridať položku',
+		'drag to reorder' => 
+		'ťahom zmeníte poradie',
 
-		'Remove item' =>
-		'Odstrániť položku',
+		'Please reset your password' => 
+		'Prosím obnovte si Vaše heslo',
 
-		'Ignore?' =>
-		'Ignorovať?',
+		'required' => 
+		'povinné',
 
-		'next' =>
-		'ďalšie',
+		'Click to select' => 
+		'Kliknutím vyberte',
 
-		'at' =>
-		'o',
+		'Type to search' => 
+		'Vyhľadajte',
 
-		'just now' =>
-		'práve teraz',
-
-		'a minute ago' =>
-		'pred minútou',
-
-		'{$minutes} minutes ago' =>
-		'pred {$minutes} minútami',
-
-		'about 1 hour ago' =>
-		'pred 1 hodinou',
-
-		'about {$hours} hours ago' =>
-		'pred {$hours} hodinami',
-
-		'Sort by %1$s %2$s' =>
-		'Zoradiť podľa %1$s %2$s',
-
-		'ascending' =>
-		'vzostupne',
-
-		'descending' =>
-		'zostupne',
-
-		'You are not authorised to access this page.' =>
-		'Na zobrazenie tejto stránky nemáte povolenie.',
-
-		'A database error occurred while attempting to reorder.' =>
-		'Počas zmeny usporiadania nastala chyba v databáze.',
-
-		'%1$s &ndash; %2$s' =>
-		false,
-
-		'Data Sources' =>
-		'Zdroje údajov',
-
-		'Symphony' =>
-		false,
-
-		'Create New' =>
-		'Pridať nové',
-
-		'Create a new data source' =>
-		'Vytvoriť nový Zdroj údajov',
-
-		'An error occurred while processing this form. See below for details.' =>
-		'Pri spracovaní formulára nastala chyba. Podrobnosti viď nižšie.',
-
-		'Data source updated at %s.' =>
-		'Zdroj údajov bol zaktualizovaný o %s.',
-
-		'Create another?' =>
-		'Vytvoriť ďalšiu?',
-
-		'View all Data sources' =>
-		'Zobraziť všetky Zdroje údajov',
-
-		'Data source created at %s.' =>
-		'Zdroj údajov bol vytvorený o %s.',
-
-		'Untitled' =>
-		'Bez názvu',
-
-		'Essentials' =>
-		'Základné nastavenia',
-
-		'Name' =>
-		'Názov',
-
-		'Source' =>
-		'Zdroj',
-
-		'System' =>
-		'Systém',
-
-		'Authors' =>
-		'Autori',
-
-		'Navigation' =>
-		'Navigácia',
-
-		'Custom XML' =>
-		'Vlastné XML',
-
-		'Dynamic XML' =>
-		'Dynamické XML',
-
-		'Static XML' =>
-		'Statické XML',
-
-		'From extensions' =>
-		'Z rozšírení',
-
-		'Sections' =>
-		'Sekcie',
-
-		'Filter Results' =>
-		'Filtrovať výsledky',
-
-		'Use %s syntax to filter by page parameters.' =>
-		'Použite zápis %s na filtrovanie výsledkov pomocou parametrov stránky.',
-
-		'$param' =>
-		'$parameter',
-
-		'Add filter' =>
-		'Pridať filter',
-
-		'Remove filter' =>
-		'Odstrániť filter',
-
-		'System ID' =>
-		'Systémové ID',
-
-		'Value' =>
-		'Hodnota',
-
-		'System Creation Date' =>
-		'Systémový dátum vytvorenia',
-
-		'System Modified Date' =>
-		'Systémový dátum úpravy',
-
-		'ID' =>
-		false,
-
-		'Username' =>
-		'Prihlasovacie meno',
-
-		'First Name' =>
-		'Meno',
-
-		'Last Name' =>
-		'Priezvisko',
-
-		'Email' =>
-		'E-mail',
-
-		'User Type' =>
-		'Typ používateľa',
-
-		'Parent Page' =>
-		'Rodič',
-
-		'Page Type' =>
-		'Typ',
-
-		'Sorting and Limiting' =>
-		'Zoradenie a stránkovanie',
-
-		'Use %s syntax to limit by page parameters.' =>
-		'Použite zápis %s na stránkovanie pomocou parametrov stránky.',
-
-		'Sort By' =>
-		'Zoradiť podľa',
-
-		'Author ID' =>
-		'ID autora',
-
-		'Status' =>
-		'Stav',
-
-		'Page ID' =>
-		'ID stránky',
-
-		'Handle' =>
-		'Cesta',
-
-		'Sort Order' =>
-		'Zoradenie',
-
-		'System Modification Date' =>
-		'Systémový dátum úpravy',
-
-		'random' =>
-		'náhodne',
-
-		'%1$s Paginate results, limiting to %2$s entries per page. Return page %3$s' =>
-		'%1$s Stránkovať výsledky, v počte %2$s záznamov na jednu stranu. Predvolene zobraziť stranu č. %3$s',
-
-		'Failing to paginate may degrade performance if the number of entries returned is very high.' =>
-		'Nestránkovanie veľkého množstva výsledkov môže spomaliť celkovú výkonnosť stránky.',
-
-		'Output Options' =>
-		'Možnosti výstupu',
-
-		'Required URL Parameter' =>
-		'Požadovaný URL parameter',
-
-		'Optional' =>
-		'Voliteľné',
-
-		'An empty result will be returned when this parameter does not have a value.' =>
-		'Pokiaľ bude uvedený parameter prázdny, vráti sa prázdny výsledok.',
-
-		'%s Redirect to 404 page when no results are found' =>
-		'%s Presmerovať na 404 stránku v prípade prázdnych výsledkov',
-
-		'Output Parameters' =>
-		'Výstupné parametre',
-
-		'Use Fields' =>
-		'Použiť polia',
-
-		'XML Output' =>
-		'XML výstup',
-
-		'Group By' =>
-		'Zlúčiť podľa',
-
-		'None' =>
-		'Prázdne',
-
-		'Author' =>
-		'Autor',
-
-		'Included Elements' =>
-		'Zahrnúť polia',
-
-		'%s Include a count of entries in associated sections' =>
-		'%s Zahrnúť počty záznamov v prepojených sekciách',
-
-		'%s HTML-encode text' =>
-		'%s HTML-kódovanie textu',
-
-		'URL' =>
-		false,
-
-		'Use %s syntax to specify dynamic portions of the URL.' =>
-		'Použíte zápis %s na vymedzenie dynamických URL častí.',
-
-		'Namespace Declarations' =>
-		'Definície znakových sád (namespace)',
-
-		'Add namespace' =>
-		'Pridať znakovú sadu',
-
-		'Remove namespace' =>
-		'Odstrániť znakovú sadu',
-
-		'Namespace' =>
-		'Znaková sada',
-
-		'URI' =>
-		false,
-
-		'Use an XPath expression to select which elements from the source XML to include.' =>
-		'Použite XPath výraz pre výber požadovaných značiek zo zdrojového XML.',
-
-		'Update cached result every %s minutes' =>
-		'Aktualizovať zapamätané výsledky každých %s minút',
-
-		'Body' =>
-		'Telo',
-
-		'Save Changes' =>
-		'Uložiť zmeny',
-
-		'Create Data Source' =>
-		'Vytvoriť Zdroj údajov',
-
-		'Delete' =>
+		'Clear' => 
 		'Zmazať',
 
-		'Delete this data source' =>
-		'Zmazať tento zdroj údajov',
+		'Search for {$item}' => 
+		'Nájsť {$item}',
 
-		'Are you sure you want to delete this data source?' =>
-		'Naozaj chcete zmazať tento zdroj údajov?',
+		'Add filter' => 
+		'Pridať filter',
 
-		'%1$s &ndash; %2$s &ndash; %3$s' =>
-		false,
+		'filtered' => 
+		'filtrované',
 
-		'Data Source' =>
-		'Zdroj údajov',
+		'None' => 
+		'Prázdne',
 
-		'Version' =>
-		'Verzia',
+		'Clear filters' => 
+		'Odstrániť filtre',
 
-		'%1$s released on %2$s' =>
-		'%1$s vydané %2$s',
+		'Apply filters' => 
+		'Použiť filtre',
 
-		'Created by %1$s at %2$s' =>
-		'Založené %1$s o %2$s',
+		'The Symphony calendar widget has been disabled because your system date format is currently not supported. Try one of the following instead or disable the calendar in the field settings:' => 
+		'Symphony kalendár nie je k dispozícií, nakoľko v systéme nastavený formát dátumu nie je momentálne podporovaný. Vyskúšajte niektoré z nasledujúcich možností, alebo vypnite kalendár v nastaveniach poľa:',
 
-		'Description' =>
-		'Popis',
+		'no leading zero' => 
+		'bez nuly na začiatku',
 
-		'Example XML' =>
-		'Príklad XML',
+		'Enable' => 
+		'Povoliť',
 
-		'Failed to delete %s.' =>
-		'%s sa nepodarilo zmazať.',
+		'Install' => 
+		'Nainštalovať',
 
-		'Please check permissions on %s.' =>
-		'Prosím skontrolujte prístupové práva na %s.',
+		'Update' => 
+		'Zaktualizovať',
 
-		'This is a required field' =>
-		'Toto je povinné pole',
+		'Add item' => 
+		'Pridať položku',
 
-		'XML is invalid.' =>
-		'XML nemá správny formát.',
+		'Remove item' => 
+		'Odstrániť položku',
 
-		'Must be a valid number' =>
-		'Musí byť číslo',
+		'Ignore?' => 
+		'Ignorovať?',
 
-		'Must be greater than zero' =>
-		'Musí byť väčšie ako 0',
+		'next' => 
+		'ďalšie',
 
-		'A result limit must be set' =>
-		'Musí byť nastavené stránkovanie výsledkov',
+		'at' => 
+		'o',
 
-		'Must be a valid number or parameter' =>
-		'Musí byť číslo alebo parameter',
+		'just now' => 
+		'práve teraz',
 
-		'A page number must be set' =>
-		'Číslo strany musí byť nastavené',
+		'a minute ago' => 
+		'pred minútou',
 
-		'Please ensure name contains at least one Latin-based character.' =>
-		'Prosím uistite sa, že názov obsahuje aspoň jeden znak latinky.',
+		'{$minutes} minutes ago' => 
+		'pred {$minutes} minútami',
 
-		'A Data source with the name %s already exists' =>
-		'Zdroj údajov s názvom %s už existuje',
+		'about 1 hour ago' => 
+		'pred 1 hodinou',
 
-		'Failed to write Data source to disk.' =>
-		'Zdroj údajov sa nepodaril uložiť na disk.',
+		'about {$hours} hours ago' => 
+		'pred {$hours} hodinami',
 
-		'Invalid URL' =>
-		'Nesprávna URL hodnota',
+		'Sort by %1$s %2$s' => 
+		'Zoradiť podľa %1$s %2$s',
 
-		'Request timed out. %d second limit reached.' =>
-		'Časový limit požiadavky vypršal. Limit %d sekúnd dosiahnutý.',
+		'ascending' => 
+		'vzostupne',
 
-		'Failed to load URL, status code %d was returned.' =>
-		'Chyba načítania URL adresy, vrátený chybový stav %d.',
+		'descending' => 
+		'zostupne',
 
-		'Events' =>
-		'Udalosti',
+		'Documentation' => 
+		'Pomocník',
 
-		'Create a new event' =>
-		'Vytvoriť novú Udalosť',
+		'Success and Failure XML Examples' => 
+		'XML ukážky',
 
-		'Event updated at %s.' =>
-		'Udalosť bola zaktualizovaná o %s.',
+		'When saved successfully, the following XML will be returned:' => 
+		'Ak sa úspešne zapíše záznam, vráti sa nasledujúce XML:',
 
-		'View all Events' =>
-		'Zobraziť všetky Udalosti',
+		'Entry [created | edited] successfully.' => 
+		'Záznam úspešne vytvorený/upravený.',
 
-		'Event created at %s.' =>
-		'Udalosť vytvorená o %s.',
+		'When an error occurs during saving, due to either missing or invalid fields, the following XML will be returned.' => 
+		'Pokiaľ nastane chyba počas ukladania, buď kvôli chýbajúcim alebo nesprávne vyplneným poliam, vráti sa nasledujúce XML:',
 
-		'Filters' =>
-		'Filtre',
+		'Notice that it is possible to get mixtures of success and failure messages when using the ‘Allow Multiple’ option.' => 
+		'Poznámka: Pri použití možnosti ‘Povoliť viacnásobný zápis‘ sa môže vrátiť kombinácia úspešných a neúspešných oznámení.',
 
-		'Event Filters add additional conditions or actions to an event.' =>
-		'Filtre udalostí pridávajú ďalšie podmienky alebo akcie k udalosti.',
+		'Entry encountered errors when saving.' => 
+		'Pri ukladaní záznamu nastali chyby.',
 
-		'Admin Only' =>
-		'Iba admin',
+		'The following is an example of what is returned if any options return an error:' => 
+		'Ukážka odpovede, pokiaľ niektorá z podmienok vráti chybu:',
 
-		'Send Notification Email' =>
-		'Odoslať notifikačný e-mail',
-
-		'Allow Multiple' =>
-		'Povoliť viacnásobný zápis',
-
-		'Last modified on %s' =>
-		'Posledná zmena o %s',
-
-		'Create Event' =>
-		'Vytvoriť Udalosť',
-
-		'Delete this event' =>
-		'Zmazať túto udalosť',
-
-		'Are you sure you want to delete this event?' =>
-		'Naozaj chcete zmazať túto udalosť?',
-
-		'An Event with the name %s already exists' =>
-		'Udalosť s názvom %s už existuje',
-
-		'Success and Failure XML Examples' =>
-		'XML príklady úspešnej a neúspešnej udalosti',
-
-		'When saved successfully, the following XML will be returned:' =>
-		'Pokiaľ sa udalosť vykoná úspešne, vráti sa nasledujúce XML:',
-
-		'Entry [created | edited] successfully.' =>
-		'Záznam úspešne [vytvorený | upravený].',
-
-		'When an error occurs during saving, due to either missing or invalid fields, the following XML will be returned' =>
-		'Pokiaľ nastane chyba počas ukladania, buď kvôli chýbajúcim alebo nesprávne vyplneným poliam, vráti sa nasledujúce XML',
-
-		'Notice that it is possible to get mixtures of success and failure messages when using the ‘Allow Multiple’ option' =>
-		'Poznámka: Pri použití voľby ‘Povoliť viacnásobný zápis‘ sa môže vyskytnúť mix úspešných a neúspešných hlásení',
-
-		'Entry encountered errors when saving.' =>
-		'Pri ukladaní záznamu sa vyskytli chyby.',
-
-		'The following is an example of what is returned if any options return an error:' =>
-		'Príklad odpovede v prípade, ak hociktorá z podmienok vráti chybu:',
-
-		'Recipient not found' =>
+		'Recipient not found' => 
 		'Adresát nenájdený',
 
-		'Example Front-end Form Markup' =>
-		'Príklad prezentačného kódu formulára',
+		'Example Front-end Form Markup' => 
+		'Ukážka kódu formulára',
 
-		'This is an example of the form markup you can use on your frontend:' =>
-		'Príklad prezentačného kódu formulára, ktorý môžete použiť vo verejnej časti vašich stránok:',
+		'This is an example of the form markup you can use on your frontend:' => 
+		'Príklad prezentačného kódu formulára, ktorý môžete použiť na vašej webovej stránke:',
 
-		'Submit' =>
+		'Submit' => 
 		'Odoslať',
 
-		'To edit an existing entry, include the entry ID value of the entry in the form. This is best as a hidden field like so:' =>
-		'Na editáciu existujúceho Záznamu pridajte do formulára jeho ID hodnotu, najlepšie pomocou skrytého poľa:',
+		'To edit an existing entry, include the entry ID value of the entry in the form. This is best as a hidden field like so:' => 
+		'Na editáciu existujúceho záznamu pridajte do formulára ID číslo cieľového záznamu, najlepšie pomocou skrytého poľa:',
 
-		'To redirect to a different location upon a successful save, include the redirect location in the form. This is best as a hidden field like so, where the value is the URL to redirect to:' =>
-		'Pre presmerovanie stránky po úspešnom spracovaní pridajte adresu cieľovej stránky vo forme skrytého poľa:',
+		'To redirect to a different location upon a successful save, include the redirect location in the form. This is best as a hidden field like so, where the value is the URL to redirect to:' => 
+		'Na presmerovanie stránky po úspešnom odoslaní formulára pridajte adresu cieľovej stránky vo forme skrytého poľa:',
 
-		'Upon the event successfully saving the entry, this option takes input from the form and send an email to the desired recipient.' =>
-		'Po úspešnom vykonaní Udalosti sa zoberú určené hodnoty z formulára a odošlú sa zvoleným adresátom.',
+		'Send Notification Email' => 
+		'Odoslať notifikačný e-mail',
 
-		'It currently does not work with ‘Allow Multiple’' =>
+		'Upon the event successfully saving the entry, this option takes input from the form and send an email to the desired recipient.' => 
+		'Po úspešnom zápise záznamu udalosťou sa zoberú hodnoty z formulára a odošlú vybraným adresátom.',
+
+		'It currently does not work with ‘Allow Multiple’' => 
 		'Možnosť odoslania hodnôt nefunguje pri voľbe ‘Povoliť viacnásobný zápis‘',
 
-		'The following are the recognised fields:' =>
+		'The following are the recognised fields:' => 
 		'Dostupné hodnoty pre odoslanie e-mailom:',
 
-		'list of comma-separated author usernames.' =>
-		'Zoznam užívateľských mien oddelených čiarkou.',
+		'Optional' => 
+		'Voliteľné',
 
-		'All of these fields can be set dynamically using the exact field name of another field in the form as shown below in the example form:' =>
-		'Hodnoty všetkých polí vedia byť dynamicky nastavené ako ukazuje nasledujúci príklad:',
+		'list of comma-separated author usernames.' => 
+		'Zoznam používateľských mien oddelených čiarkou.',
 
-		'Message' =>
+		'All of these fields can be set dynamically using the exact field name of another field in the form as shown below in the example form:' => 
+		'Hodnoty všetkých polí vedia byť dynamicky nastavené, ako ukazuje nasledujúci príklad:',
+
+		'Name' => 
+		'Názov',
+
+		'Email' => 
+		'E-mail',
+
+		'Message' => 
 		'Správa',
 
-		'Failed to write Event to disk.' =>
-		'Udalosť sa nepodarila uložiť na disk.',
+		'A database error occurred while attempting to reorder.' => 
+		'Počas zmeny usporiadania nastala chyba v databáze.',
 
-		'Pages' =>
-		'Stránky',
+		'%1$s &ndash; %2$s' => 
+		false,
 
-		'Create a new page' =>
-		'Vytvoriť novú Stránku',
+		'Data Sources' => 
+		'Zdroje údajov',
 
-		'Title' =>
-		'Názov',
+		'Symphony' => 
+		false,
 
-		'Template' =>
-		'Šablóna',
+		'Create New' => 
+		'Vytvoriť nový',
 
-		'Universal Resource Locator' =>
-		'URL',
+		'Create a new data source' => 
+		'Vytvoriť nový zdroj údajov',
 
-		'Parameters' =>
-		'Parametre',
+		'An error occurred while processing this form. See below for details.' => 
+		'Pri spracovaní formulára nastala chyba. Podrobnosti viď nižšie.',
 
-		'Type' =>
+		'Data Source updated at %s.' => 
+		'Zdroj údajov bol zaktualizovaný o %s.',
+
+		'Data Source created at %s.' => 
+		'Zdroj údajov bol vytvorený o %s.',
+
+		'Create another?' => 
+		'Vytvoriť ďalší?',
+
+		'View all Data Sources' => 
+		'Zobraziť všetky zdroje údajov',
+
+		'Untitled' => 
+		'Bez názvu',
+
+		'Source' => 
+		'Zdroj',
+
+		'System' => 
+		'Systém',
+
+		'Authors' => 
+		'Autori',
+
+		'Navigation' => 
+		'Navigácia',
+
+		'Custom XML' => 
+		'Vlastné XML',
+
+		'Static XML' => 
+		'Statické XML',
+
+		'From extensions' => 
+		'Z rozšírení',
+
+		'Sections' => 
+		'Sekcie',
+
+		'Essentials' => 
+		'Všeobecné nastavenia',
+
+		'Execution Conditions' => 
+		'Podmienky vykonania',
+
+		'Leaving these fields empty will always execute the data source.' => 
+		'Zdroj údajov sa vykoná zakaždým, pokiaľ necháte tieto polia prázdne.',
+
+		'Required Parameter' => 
+		'Požadovaný parameter',
+
+		'$param' => 
+		'$parameter',
+
+		'Forbidden Parameter' => 
+		'Zakázaný parameter',
+
+		'Error Conditions' => 
+		'Podmienky chyby',
+
+		'Meeting one of these conditions will cause a <code>404 Not Found</code> response.' => 
+		'Naplnenie niektorej z týchto podmienok vráti <code>HTTP 404 Nenájdené</code> odpoveď.',
+
+		'The required parameter is missing' => 
+		'Požadovaný parameter chýba',
+
+		'The forbidden parameter is present' => 
+		'Zakázaný parameter je prítomný',
+
+		'No results are found' => 
+		'Žiadne výsledky nenájdené',
+
+		'Filters' => 
+		'Filtre',
+
+		'Use %s syntax to filter by page parameters. A default value can be set using %s.' => 
+		'Použite zápis %s na filtrovanie výsledkov pomocou parametrov stránky. Predvolenú hodnotu môžete nastaviť prostredníctvom zápisu %s.',
+
+		'$param:default' => 
+		'$parameter:predvolená hodnota',
+
+		'Remove filter' => 
+		'Odstrániť filter',
+
+		'System ID' => 
+		'Systémové ID',
+
+		'Value' => 
+		'Hodnota',
+
+		'System Creation Date' => 
+		'Dátum vytvorenia',
+
+		'System Modification Date' => 
+		'Dátum poslednej zmeny',
+
+		'ID' => 
+		false,
+
+		'Username' => 
+		'Prihlasovacie meno',
+
+		'First Name' => 
+		'Meno',
+
+		'Last Name' => 
+		'Priezvisko',
+
+		'User Type' => 
+		'Typ používateľa',
+
+		'Parent Page' => 
+		'Nadradená stránka',
+
+		'Page Type' => 
 		'Typ',
 
-		'Children' =>
-		'Potomkovia',
+		'Sorting' => 
+		'Zoradenie',
 
-		'None found.' =>
-		'Žiadne záznamy nenájdené.',
+		'Use %s syntax to order by page parameters.' => 
+		'Použite zápis %s na zoradenie výsledkov pomocou parametrov stránky.',
 
-		'With Selected...' =>
-		'S vybranými...',
+		'Sort By' => 
+		'Zoradiť podľa',
 
-		'Are you sure you want to delete the selected pages?' =>
-		'Naozaj chcete zmazať vybrané stránky?',
+		'Author ID' => 
+		'ID autora',
 
-		'Page updated at %s.' =>
-		'Stránka bola zaktualizovaná o %s.',
+		'Status' => 
+		'Stav',
 
-		'View all Pages' =>
-		'Zobraziť všetky Stránky',
+		'Page ID' => 
+		'ID stránky',
 
-		'Edit Page' =>
-		'Upraviť Stránku',
+		'Handle' => 
+		'Cesta',
 
-		'Edit Page Configuration' =>
-		'Upraviť nastavenia Stránky',
+		'Sort Order' => 
+		'Zoradenie',
 
-		'Utilities' =>
-		'Nástroje',
+		'{$param}' => 
+		'{$parameter}',
 
-		'Page created at %s.' =>
-		'Stránka vytvorená o %s.',
+		'Grouping' => 
+		'Zoskupenie',
 
-		'View Page' =>
-		'Zobraziť Stránku',
+		'Group By' => 
+		'Zoskupiť podľa',
 
-		'View Page on Frontend' =>
-		'Zobraziť Stránku vo verejnej časti',
+		'Pagination' => 
+		'Stránkovanie',
 
-		'Edit Page Template' =>
-		'Upraviť šablónu Stránky',
+		'Use %s syntax to limit by page parameters.' => 
+		'Použite zápis %s na stránkovanie pomocou parametrov stránky.',
 
-		'Page Settings' =>
-		'Nastavenia Stránky',
+		'Entries per Page' => 
+		'Počet riadkov na stránku',
 
-		'URL Handle' =>
-		'URL cesta',
+		'Page Number' => 
+		'Číslo stránky',
 
-		'URL Parameters' =>
-		'URL parametre',
+		'Enable pagination' => 
+		'Použiť stránkovanie',
 
-		'Page Resources' =>
-		'Zdroje Stránky',
-
-		'Create Page' =>
-		'Vytvoriť Stránku',
-
-		'Delete this page' =>
-		'Zmazať túto stránku',
-
-		'Are you sure you want to delete this page?' =>
-		'Naozaj chcete zmazať túto stránku?',
-
-		'This is a required field.' =>
-		'Toto je povinné pole.',
-
-		'This document is not well formed.' =>
-		'Tento dokument má nesprávný formát.',
-
-		'The following error was returned:' =>
-		'Nastala nasledujúca chyba:',
-
-		'Page Template could not be written to disk.' =>
-		'Šablóna Stránky sa nepodarila uložiť na disk.',
-
-		'An index type page already exists.' =>
-		'Typ Stránky ‘index‘ už existuje.',
-
-		'A 404 type page already exists.' =>
-		'Typ Stránky ‘404‘ už existuje.',
-
-		'A 403 type page already exists.' =>
-		'Typ Stránky ‘403‘ už existuje.',
-
-		'Please ensure handle contains at least one Latin-based character.' =>
-		'Prosím uistite sa, že cesta obsahuje aspoň jeden znak latinky.',
-
-		'A page with that title already exists' =>
-		'Stránka s daným názvom už existuje',
-
-		'A page with that handle already exists' =>
-		'Stránka s danou cestou už existuje',
-
-		'Unknown errors occurred while attempting to save.' =>
-		'Pri ukladaní sa vyskytli neznáme chyby.',
-
-		'Check your activity log' =>
-		'Skontrolujte záznam vašich aktivít.',
-
-		'Page could not be deleted because it does not exist.' =>
-		'Stránka nemohla byť zmazaná, pretože neexistuje.',
-
-		'Page could not be deleted because it has children.' =>
-		'Stránka nemohla byť zmazaná, pretože má potomkov.',
-
-		'One or more pages could not be deleted.' =>
-		'Jedna alebo viaceré Stránky nemohli byť zmazané.',
-
-		'Create a section' =>
-		'Založiť Sekciu',
-
-		'Entries' =>
-		'Záznamy',
-
-		'Navigation Group' =>
-		'Navigačná skupina',
-
-		'Are you sure you want to delete the selected sections?' =>
-		'Naozaj chcete zmazať vybrané sekcie?',
-
-		'Delete Entries' =>
-		'Vymazať Záznamy',
-
-		'Are you sure you want to delete all entries in the selected sections?' =>
-		'Naozaj chcete vymazať všetky záznamy vo vybraných sekciách?',
-
-		'Set navigation group' =>
-		'Nastaviť navigačnú skupinu',
-
-		'Content' =>
+		'Content' => 
 		'Obsah',
 
-		'%s Hide this section from the back-end menu' =>
-		'%s Schovať túto Sekciu v navigačnej skupine',
+		'Included Elements' => 
+		'Zahrnúť polia',
 
-		'Fields' =>
-		'Polia',
+		'Parameters' => 
+		'Parametre',
 
-		'Add field' =>
-		'Pridať pole',
+		'Include a count of entries in associated sections' => 
+		'Zahrnúť počty záznamov v prepojených sekciách',
 
-		'Remove field' =>
-		'Odstrániť pole',
+		'HTML-encode text' => 
+		'HTML zakódovanie textu (HTML-encode)',
 
-		'Create Section' =>
-		'Založiť Sekciu',
+		'Enter valid XML, exclude XML declaration' => 
+		'Zadajte XML v správnom formáte, vynechajte XML deklaráciu',
 
-		'The Section, %s, could not be found.' =>
-		'Sekcia %s sa nenašla.',
+		'Attach to Pages' => 
+		'Pripojiť k stránkam',
 
-		'Unknown Section' =>
-		'Neznáma Sekcia',
+		'The data will only be available on the selected pages.' => 
+		'Údaje budú dostupné iba na vybraných stránkach.',
 
-		'Section updated at %s.' =>
-		'Sekcia bola zaktualizovaná o %s.',
+		'Pages' => 
+		'Stránky',
 
-		'View all Sections' =>
-		'Zobraziť všetky Sekcie',
+		'Save Changes' => 
+		'Uložiť zmeny',
 
-		'Section created at %s.' =>
-		'Sekcia bola vytvorena o %s.',
+		'Create Data Source' => 
+		'Vytvoriť zdroj údajov',
 
-		'View Entries' =>
-		'Zobraziť záznamy',
+		'Delete' => 
+		'Zmazať',
 
-		'View Section Entries' =>
-		'Zobraziť záznamy v Sekcii',
+		'Delete this data source' => 
+		'Zmazať tento zdroj údajov',
 
-		'Delete this section' =>
-		'Zmazať túto sekciu',
+		'Are you sure you want to delete this data source?' => 
+		'Naozaj chcete zmazať tento zdroj údajov?',
 
-		'Are you sure you want to delete this section?' =>
-		'Naozaj chcete zmazať túto sekciu?',
-
-		'A Section with the name %s already exists' =>
-		'Sekcia s názvom %s už existuje',
-
-		'A field with this handle already exists. All handle must be unique.' =>
-		'Pole s touto cestou už existuje. Všetky cesty musia byť jedinečné.',
-
-		'There is already a field of type %s. There can only be one per section.' =>
-		'Pole typu %s už existuje. Môže existovať iba jedno v Sekcii.',
-
-		'An unknown database occurred while attempting to create the section.' =>
-		'Pri ukladaní Sekcie sa vyskytla neznáma chyba v databáze.',
-
-		'Create a new utility' =>
-		'Vytvoriť nový Nástroj',
-
-		'Utility updated at %s.' =>
-		'Nástroj bol zaktualizovaný o %s.',
-
-		'View all Utilities' =>
-		'Zobraziť všetky Nástroje',
-
-		'Utility created at %s.' =>
-		'Nástroj bol vytvorený o %s.',
-
-		'Create Utility' =>
-		'Vytvoriť Nástroj',
-
-		'Delete this utility' =>
-		'Zmazať tento nástroj',
-
-		'Are you sure you want to delete this Utility?' =>
-		'Naozaj chcete zmazať tento nástroj?',
-
-		'Name is a required field.' =>
-		'Názov je povinné pole.',
-
-		'Body is a required field.' =>
-		'Telo je povinné pole.',
-
-		'A Utility with that name already exists. Please choose another.' =>
-		'Nástroj s daným názvom už existuje. Prosím vyberte iný.',
-
-		'Utility could not be written to disk.' =>
-		'Nástroj sa nepodaril uložiť na disk.',
-
-		'Login' =>
-		'Prihlásiť sa',
-
-		'An email containing a customised login link has been sent to %s. It will expire in 2 hours.' =>
-		'Na e-mail %s bol odoslaný upravený prihlasovací odkaz. Jeho platnosť vyprší za 2 hodiny.',
-
-		'Enter your email address or username to be sent further instructions for logging in.' =>
-		'Zadajte Váš e-mail alebo prihlasovacie meno pre zaslanie inštrukcií na obnovenie hesla.',
-
-		'Email Address or Username' =>
-		'E-mailová adresa, alebo prihlasovacie meno',
-
-		'Unfortunately no account was found using this information.' =>
-		'Nenašiel sa žiaden účet podľa týchto informácii.',
-
-		'Send Email' =>
-		'Odoslať e-mail',
-
-		'Cancel' =>
-		'Zrušiť',
-
-		'The login details provided are incorrect.' =>
-		'Zadané prihlasovacie údaje sú nesprávne.',
-
-		'No username was entered.' =>
-		'Nezadali ste prihlasovacie meno.',
-
-		'Password' =>
-		'Heslo',
-
-		'No password was entered.' =>
-		'Nezadali ste heslo.',
-
-		'Retrieve password?' =>
-		'Obnoviť heslo?',
-
-		'New Symphony Account Password' =>
-		'Heslo pre nový Symphony účet',
-
-		'Hi %s,' =>
-		'Dobrý deň %s,',
-
-		'A new password has been requested for your account. Login using the following link, and change your password via the Authors area:' =>
-		'Pre Váš účet bolo vyžiadané nové heslo. Prihláste sa pomocou nasledujúceho odkazu a heslo si zmeňte v sekcii Autori:',
-
-		'It will expire in 2 hours. If you did not ask for a new password, please disregard this email.' =>
-		'Platnosť odkazu vyprší do 2 hodín. Ak ste nepožiadali o nové heslo, prosím ignorujte túto správu.',
-
-		'Best Regards,' =>
-		'Príjemný deň,',
-
-		'The Symphony Team' =>
-		'Symphony tím',
-
-		'Create a new entry' =>
-		'Vytvoriť nový záznam',
-
-		'Edit Section' =>
-		'Upraviť Sekciu',
-
-		'Edit Section Configuration' =>
-		'Upraviť vlastnosti Sekcie',
-
-		'An error occurred while retrieving filtered entries. Showing all entries instead.' =>
-		'Pri filtrovaní záznamov sa vyskytla chyba. Zobrazujú sa všetky záznamy.',
-
-		'Are you sure you want to delete the selected entries?' =>
-		'Naozaj chcete vymazať vybrané záznamy?',
-
-		'Set %s' =>
-		'Nastaviť %s',
-
-		'First' =>
-		'Prvá',
-
-		'&larr; Previous' =>
-		'&larr; Predchádzajúca',
-
-		'Viewing %1$s - %2$s of %3$s entries' =>
-		'Zobrazených %1$s - %2$s z celkovo %3$s záznamov',
-
-		'Go to page …' =>
-		'Prejsť na stranu ...',
-
-		'Page %1$s of %2$s' =>
-		'Strana %1$s z %2$s',
-
-		'Next &rarr;' =>
-		'Nasledujúca &rarr;',
-
-		'Last' =>
-		'Posledná',
-
-		'Fields must be added to this section before an entry can be created.' =>
-		'Sekcia musí obsahovať polia pred vytvorením záznamu.',
-
-		'Add fields' =>
-		'Pridať polia',
-
-		'Create Entry' =>
-		'Vytvoriť Záznam',
-
-		'Some errors were encountered while attempting to save.' =>
-		'Pri ukladaní sa vyskytli chyby.',
-
-		'Unknown Entry' =>
-		'Neznámy Záznam',
-
-		'The Entry, %s, could not be found.' =>
-		'Záznam %s sa nenašiel.',
-
-		'Entry updated at %s.' =>
-		'Záznam bol zaktualizovaný o %s.',
-
-		'View all Entries' =>
-		'Zobraziť všetky Záznamy',
-
-		'Entry created at %s.' =>
-		'Záznam bol vytvorený o %s.',
-
-		'Delete this entry' =>
-		'Zmazať tento záznam',
-
-		'Are you sure you want to delete this entry?' =>
-		'Naozaj chcete zmazať tento záznam?',
-
-		'Linked to %s in' =>
-		'Prepojené na %s s/so',
-
-		'Links in %s' =>
-		'Prepojenia v %s',
-
-		'%d entries' =>
-		'%d záznamov',
-
-		'Show more entries' =>
-		'Zobraziť viac záznamov',
-
-		'No links in %s' =>
-		'Žiadne prepojenia v %s',
-
-		'Show Associations' =>
-		'Zobraziť Prepojenia',
-
-		'Create a new author' =>
-		'Vytvoriť nového autora',
-
-		'Email Address' =>
-		'E-mailová adresa',
-
-		'Last Seen' =>
-		'Naposledy prihlásený',
-
-		'Language' =>
-		'Jazyk',
-
-		'Email this author' =>
-		'Poslať e-mail Autorovi',
-
-		'Unknown' =>
-		'Neznámy',
-
-		'System Default' =>
-		'Predvolené systémom',
-
-		'Are you sure you want to delete the selected authors?' =>
-		'Naozaj chcete zmazať vybraných autorov?',
-
-		'Access Denied' =>
-		'Prístup zamietnutý',
-
-		'Author updated at %s.' =>
-		'Autor bol zaktualizovaný o %s.',
-
-		'View all Authors' =>
-		'Zobraziť všetkých Autorov',
-
-		'Author created at %s.' =>
-		'Autor bol vytvorený o %s.',
-
-		'The author profile you requested does not exist.' =>
-		'Vyžiadaný profil autora neexistuje.',
-
-		'Author not found' =>
-		'Autor nenájdený',
-
-		'You are not authorised to edit other authors.' =>
-		'Na editovanie ostatných autorov nemáte práva.',
-
-		'Login Details' =>
-		'Prihlasovacie údaje',
-
-		'Manager' =>
-		'Manažér',
-
-		'Developer' =>
-		'Vývojár',
-
-		'Leave password fields blank to keep the current password' =>
-		'Pre zachovanie súčasného hesla nechajte polia prázdne',
-
-		'Old Password' =>
-		'Staré heslo',
-
-		'New Password' =>
-		'Nové heslo',
-
-		'Confirm Password' =>
-		'Potvrdiť heslo',
-
-		'%s Allow remote login via' =>
-		'%s Umožniť vzdialené prihlásenie pomocou',
-
-		'Default Area' =>
-		'Predvolená Sekcia',
-
-		'Sections Index' =>
-		'Zoznam Sekcií',
-
-		'Custom Preferences' =>
-		'Vlastné predvoľby',
-
-		'Create Author' =>
-		'Vytvoriť Autora',
-
-		'Delete this author' =>
-		'Zmazať tohto autora',
-
-		'Are you sure you want to delete this author?' =>
-		'Naozaj chcete zmazať tohto autora?',
-
-		'Passwords did not match' =>
-		'Heslá sa nezhodujú',
-
-		'There were some problems while attempting to save. Please check below for problem fields.' =>
-		'Pri ukladaní sa vyskytli chyby. Prosím skontrolujte nižšie označené polia.',
-
-		'Wrong password. Enter old password to change it.' =>
-		'Nesprávne heslo. Zadajte staré heslo na jeho zmenu.',
-
-		'Wrong password. Enter old one to change email address.' =>
-		'Nesprávne heslo. Zadajte staré heslo na zmenu e-mailovej adresy.',
-
-		'You cannot remove yourself as you are the active Author.' =>
-		'Nemôžete sa odstrániť nakoľko ste aktuálny Autor.',
-
-		'Extensions' =>
-		'Rozšírenia',
-
-		'Installed Version' =>
-		'Nainštalovaná verzia',
-
-		'Enabled' =>
-		'Povolené',
-
-		'Not Installed' =>
-		'Nenainštalované',
-
-		'Enable to install %s' =>
-		'Povoľte pre nainštalovanie %s',
-
-		'Requires Symphony %s' =>
-		'Vyžaduje Symphony %s',
-
-		'Yes' =>
-		'Áno',
-
-		'New version %1$s, Requires Symphony %2$s' =>
-		'Nová verzia %1$s vyžaduje Symphony %2$s',
-
-		'Enable to update to %s' =>
-		'Povoľte pre zaktualizovanie na %s',
-
-		'Disabled' =>
-		'Vypnuté',
-
-		'Enable/Install' =>
-		'Povoliť / Nainštalovať',
-
-		'Disable' =>
-		'Vypnúť',
-
-		'Uninstall' =>
-		'Odinštalovať',
-
-		'Are you sure you want to uninstall the selected extensions?' =>
-		'Naozaj chcete odinštalovať vybrané rozšírenia?',
-
-		'Preferences' =>
-		'Predvoľby',
-
-		'The Symphony configuration file, %s, is not writable. You will not be able to save changes to preferences.' =>
-		'Konfiguračný súbor Symphony %s nemá práva na zápis. Vaše zmeny v predvoľbách nebude možné uložiť.',
-
-		'Preferences saved.' =>
-		'Predvoľby uložené.',
-
-		'System Language' =>
-		'Jazyk systému',
-
-		'Authors can set up a differing language in their profiles.' =>
-		'Autori si môžu určiť vlastné nastavenie jazyka vo svojich profiloch.',
-
-		'Default Email Settings' =>
-		'E-mail nastavenia',
-
-		'Gateway' =>
-		'Brána',
-
-		'Could not find extension %s at location %s.' =>
-		'Rozšírenie %s sa nepodarilo nájsť na umiestnení %s.',
-
-		'Symphony Extension Missing Error' =>
-		'Chyba: Chýbajúce Symphony Rozšírenie',
-
-		'An extension requires updating.' =>
-		'Rozšírenie vyžaduje aktualizáciu.',
-
-		'View extensions' =>
-		'Zobraziť Rozšírenia.',
-
-		'An update has been found in your installation to upgrade Symphony to %s.' =>
-		'Našla sa aktualizácia systému Symphony na verziu %s.',
-
-		'View update.' =>
-		'Zobraziť aktualizáciu.',
-
-		'Your Symphony installation is up to date, but the installer was still detected. For security reasons, it should be removed.' =>
-		'Vaša Symphony inštalácia je aktuálna, ale inštalačný balík je stále jej súčasťou. Z bezpečnostných dôvodov by mal byť odstránený.',
-
-		'Remove installer?' =>
-		'Odstrániť inštalačný balík?',
-
-		'An update script has been found in your installation.' =>
-		'V inštalácii Symphony sa našla aktualizačný balík.',
-
-		'Cannot request a page callback without first specifying the page.' =>
+		'%1$s &ndash; %2$s &ndash; %3$s' => 
 		false,
 
-		'The page you requested does not exist.' =>
-		'Požadovaná stránka neexistuje.',
+		'Data Source' => 
+		'Zdroj údajov',
 
-		'Page Not Found' =>
-		'Stránka nebola nájdená',
+		'Author' => 
+		'Autor',
 
-		'Invalid timezone %s' =>
-		'Nesprávny formát časovej zóny %s',
+		'Version' => 
+		'Verzia',
 
-		'no leading zeros' =>
-		'bez vodiacej nuly',
+		'%1$s released on %2$s' => 
+		'%1$s vydané %2$s',
 
-		'The page you requested, %s, does not exist.' =>
-		'Požadovaná stránka %s neexistuje.',
+		'Created by %1$s at %2$s' => 
+		'Založené %1$s o %2$s',
 
-		'This error occurred whilst attempting to resolve the 404 page for the original request.' =>
-		'Táto chyba nastala pri pokuse rozpoznať 404 stránku pre pôvodnú požiadavku.',
+		'Description' => 
+		'Popis',
 
-		'No suitable engine object found' =>
+		'Example XML' => 
+		'Ukážka XML',
+
+		'Failed to delete %s.' => 
+		'%s sa nepodarilo zmazať.',
+
+		'Please check permissions on %s.' => 
+		'Prosím skontrolujte prístupové práva na %s.',
+
+		'This is a required field' => 
+		'Povinné pole',
+
+		'This field contains invalid characters' => 
+		'Pole obsahuje neplatné znaky',
+
+		'The name of the data source must begin with a letter.' => 
+		'Názov zdroja údajov musí začínať písmenom.',
+
+		'XML is invalid.' => 
+		'XML má neplatný formát.',
+
+		'A result limit must be set' => 
+		'Musí byť nastavené stránkovanie výsledkov',
+
+		'Must be a valid number or parameter' => 
+		'Musí byť číslo alebo parameter',
+
+		'A page number must be set' => 
+		'Číslo strany musí byť nastavené',
+
+		'Please ensure name contains at least one Latin-based character.' => 
+		'Prosím uistite sa, že názov obsahuje aspoň jeden znak latinky.',
+
+		'A Data source with the name %s already exists' => 
+		'Zdroj údajov s názvom %s už existuje',
+
+		'Failed to write Data source to disk.' => 
+		'Zdroj údajov sa nepodarilo uložiť na disk.',
+
+		'Invalid URL' => 
+		'Neplatný URL formát',
+
+		'Request timed out. %d second limit reached.' => 
+		'Časový limit požiadavky %d sekúnd vypršal.',
+
+		'Failed to load URL, status code %d was returned.' => 
+		'Chyba načítania URL adresy, vrátený chybový stav %d.',
+
+		'Events' => 
+		'Udalosti',
+
+		'Create a new event' => 
+		'Vytvoriť novú udalosť',
+
+		'Event updated at %s.' => 
+		'Udalosť bola zaktualizovaná o %s.',
+
+		'Event created at %s.' => 
+		'Udalosť vytvorená o %s.',
+
+		'View all Events' => 
+		'Zobraziť všetky udalosti',
+
+		'Target' => 
+		'Cieľ',
+
+		'Event Filters add additional conditions or actions to an event.' => 
+		'Filtre udalostí pridajú ďalšie podmienky alebo funkčnosť k udalosti.',
+
+		'Admin Only' => 
+		'Iba admin',
+
+		'Allow Multiple' => 
+		'Povoliť viacnásobný zápis',
+
+		'The event will only be available on the selected pages.' => 
+		'Udalosť bude dostupná iba na vybraných stránkach.',
+
+		'Last modified on %s' => 
+		'Posledná zmena %s',
+
+		'Create Event' => 
+		'Vytvoriť udalosť',
+
+		'Delete this event' => 
+		'Zmazať udalosť',
+
+		'Are you sure you want to delete this event?' => 
+		'Naozaj chcete zmazať túto udalosť?',
+
+		'The name of the event must begin with a letter.' => 
+		'Názov udalosti musí začínať na písmeno.',
+
+		'An Event with the name %s already exists' => 
+		'Udalosť s názvom %s už existuje',
+
+		'Failed to write Event to disk.' => 
+		'Udalosť sa nepodarilo uložiť na disk.',
+
+		'Create a new page' => 
+		'Vytvoriť novú stránku',
+
+		'Template' => 
+		'Šablóna',
+
+		'Universal Resource Locator' => 
+		// Jednotný vyhľadávač zdrojov
+		'URL',
+
+		'URL' => 
 		false,
 
-		'Error creating Symphony extension manager.' =>
-		'Chyba pri vytváraní manažéra rozšírenia Symphony.',
+		'Type' => 
+		'Typ',
 
-		'Symphony Database Error' =>
-		'Chyba Symphony databázy',
+		'Children' => 
+		'Potomkovia',
 
-		'There was a problem whilst attempting to establish a database connection. Please check all connection information is correct.' =>
-		'Pri pripájaní k databáze sa vyskytol problém. Prosím skontrolujte správnosť všetkých nastavení pripojenia.',
+		'None found.' => 
+		'Žiadne záznamy nenájdené.',
 
-		'Log out' =>
-		'Odhlásiť sa',
+		'Select Page %s' => 
+		'Vybrať stránku %s',
 
-		'First name is required' =>
-		'Meno je povinné',
+		'With Selected...' => 
+		'Vybrané záznamy...',
 
-		'Last name is required' =>
-		'Priezvisko je povinné',
+		'Are you sure you want to delete the selected pages?' => 
+		'Naozaj chcete vymazať vybrané stránky?',
 
-		'E-mail address is required' =>
-		'E-mailová adresa je povinná',
+		'Page updated at %s.' => 
+		'Stránka bola zaktualizovaná o %s.',
 
-		'E-mail address entered is invalid' =>
-		'Tvar e-mailovej adresy je nesprávny',
+		'Page created at %s.' => 
+		'Stránka bola vytvorená o %s.',
 
-		'E-mail address is already taken' =>
-		'Zadaná e-mailová adresa sa už používa',
+		'View all Pages' => 
+		'Zobraziť všetky stránky',
 
-		'Username is required' =>
-		'Prihlasovacie meno je povinné',
+		'View Page' => 
+		'Zobraziť stránku',
 
-		'Username is already taken' =>
-		'Prihlasovacie meno je už obsadené',
+		'View Page on Frontend' => 
+		'Zobraziť stránku na webovej stránke',
 
-		'Password is required' =>
-		'Heslo je povinné',
+		'Page Settings' => 
+		'Nastavenia stránky',
 
-		'No records found.' =>
-		'Žiadne záznamy.',
+		'Page Resources' => 
+		'Zdroje stránky',
 
-		'Could not find Data Source %s.' =>
-		'Zdroj údajov %s nebol nájdený.',
-
-		'If it was provided by an Extension, ensure that it is installed, and enabled.' =>
-		'Ak to bolo poskytované Rozšírením, ubezpečte sa, že Rozšírenie je nainštalované a povolené.',
-
-		'Edit' =>
-		'Upraviť',
-
-		'Utility' =>
-		'Nástroj',
-
-		'Email Gateway Error' =>
-		'Chyba e-mailovej brány',
-
-		'Sender Email Address can not contain carriage return or newlines.' =>
-		'E-mailová adresa odosielateľa nemôže obsahovať enter alebo zalomenie riadku.',
-
-		'Sender Name can not contain carriage return or newlines.' =>
-		'Meno odosielateľa nemôže obsahovať enter alebo zalomenie riadku.',
-
-		'%1$s is not a supported encoding type. Please use %2$s or %3$s. You can also use %4$s for no encoding.' =>
-		'%1$s nie je podporované kódovanie. Prosím použite %2$s alebo %3$s. Takisto môžete použiť %4$s pre variant bez kódovania.',
-
-		'Reply-To Email Address can not contain carriage return or newlines.' =>
-		'E-mailová adresa ‘Odpovedať na‘ nemôže obsahovať enter alebo zalomenie riadku.',
-
-		'Reply-To Name can not contain carriage return or newlines.' =>
-		'Meno ‘Odpovedať na‘ nemôže obsahovať enter alebo zalomenie riadku.',
-
-		'%s accepts strings only; arrays are not allowed.' =>
-		'%s prijíma iba textové reťazce; polia nie sú povolené.',
-
-		'Email subject cannot be empty.' =>
-		'Predmet e-mailovej správy nemôže byť prázdny.',
-
-		'Sender email address cannot be empty.' =>
-		'E-mail odosielateľa nemôže byť prázdny.',
-
-		'Recipient email address cannot be empty.' =>
-		'E-mail adresáta nemôže byť prázdny.',
-
-		'The email address ‘%s’ is invalid.' =>
-		'E-mailová adresa ‘%s’ má nesprávny formát.',
-
-		'No attachments or body text was set. Can not send empty email.' =>
-		'Správa neobsahuje text alebo prílohy. Nie je možné odoslať prázdny e-mail.',
-
-		'The %1$s gateway does not support the use of %2$s' =>
-		'Brána %1$s nepodporuje použitie %2$s',
-
-		'This gateway can not be found. Can not save as default.' =>
-		'Táto brána sa nenašla. Nie je možné ju uložiť ako predvolenú.',
-
-		'Could not find Email Gateway %s.' =>
-		'Nepodarilo sa nájsť e-mailovú bránu %s.',
-
-		'Entry limit specified was not a valid type. String or Integer expected.' =>
-		'Hodnota stránkovania nemá správny formát. Očakáva sa reťazec textu alebo číslo.',
-
-		'This event has been customised and cannot be viewed from Symphony.' =>
-		'Táto Udalosť bola upravená a nemôže byť zobrazená cez Symphony.',
-
-		'Could not find Event %s.' =>
-		'Udalosť %s sa nepodarilo nájsť.',
-
-		'The field ‘%s’, provided by the Extension ‘%s’, is currently in use.' =>
-		'Pole ‘%s’, poskytované Rozšírením ‘%s’, sa momentálne využíva.',
-
-		'Please remove it from your sections prior to uninstalling or disabling.' =>
-		'Prosím odstráňte ho zo Sekcií pred samotným odinštalovaním alebo vypnutím Rozšírenia.',
-
-		'The Data Source ‘%s’, provided by the Extension ‘%s’, is currently in use.' =>
-		'Zdroj údajov ‘%s’, poskytovaný Rozšírením ‘%s’, sa momentálne využíva.',
-
-		'Please remove it from your pages prior to uninstalling or disabling.' =>
-		'Prosím odstráňte ho zo Stránok pred samotným odinštalovaním alebo vypnutím Rozšírenia.',
-
-		'The Event ‘%s’, provided by the Extension ‘%s’, is currently in use.' =>
-		'Udalosť ‘%s’, poskytovaná Rozšírením ‘%s’, sa momentálne využíva.',
-
-		'The Text Formatter ‘%s’, provided by the Extension ‘%s’, is currently in use.' =>
-		'Textový editor ‘%s’, poskytovaný Rozšírením ‘%s’, sa momentálne využíva.',
-
-		'Please remove it from your fields prior to uninstalling or disabling.' =>
-		'Prosím odstráňte ho z Polí pred samotným odinštalovaním alebo vypnutím Rozšírenia.',
-
-		'Missing default namespace definition.' =>
-		'Chýba určenie predvolenej znakovej sady (namespace).',
-
-		'The %1$s file for the %2$s extension is not valid XML: %3$s' =>
-		'Súbor %1$s pre Rozšírenie %2$s nemá správny XML formát: %3$s',
-
-		'New Field' =>
-		'Nové Pole',
-
-		'Label' =>
-		'Názov',
-
-		'Placement' =>
-		'Umiestnenie',
-
-		'Main content' =>
-		'Hlavná obsahová časť',
-
-		'Sidebar' =>
-		'Bočný panel',
-
-		'Formatting' =>
-		'Formátovanie',
-
-		'Validation Rule' =>
-		'Kontrola správnosti',
-
-		'%s Make this a required field' =>
-		'%s Označiť pole ako povinné',
-
-		'%s Display in entries table' =>
-		'%s Zobraziť v prehľade záznamov',
-
-		'%s Display relationship in entries table %s' =>
-		'%s Zobraziť prepojenie v prehľade záznamov %s',
-
-		'Invalid element name. Must be valid %s.' =>
-		'Názov značky má nesprávny formát. Musí zodpovedať %s.',
-
-		'A field with that element name already exists. Please choose another.' =>
-		'Pole s použitým názvom značky už existuje. Prosím zvoľte iné meno.',
-
-		'‘%s’ is a required field.' =>
-		'‘%s’ je povinné pole.',
-
-		'Data source output grouping is not supported by the %s field' =>
-		'Zlúčenie výstupu Zdroja údajov nie je poľom %s podporované',
-
-		'Settings for field %s could not be found in table tbl_fields_%s.' =>
-		'Nastavenia poľa %s neboli nájdené v tabuľke tbl_fields_%s.',
-
-		'Could not find Field %1$s at %2$s.' =>
-		'Nie je možné nájsť Pole %1$s v %2$s.',
-
-		'XSLT Processing Error' =>
-		'Chyba spracovania XSLT',
-
-		'Please login to view this page.' =>
-		'Na zobrazenie tejto stránky je potrebné sa prihlásiť.',
-
-		'Take me to the login page' =>
-		'Prejsť na prihlasovaciu stránku',
-
-		'Forbidden' =>
-		'Zamietnuté',
-
-		'Unable to create path - %s' =>
-		'Nie je možné vytvoriť cestu - %s',
-
-		'Unable to remove - %s' =>
-		'Nie je možné odstrániť - %s',
-
-		'Unable to remove file - %s' =>
-		'Nie je možné odstrániť súbor - %s',
-
-		'Enforced type `%1$s` for argument `$%2$s` does not match any known variable types.' =>
-		'Vynútený typ `%1$s` pre hodnotu `$%2$s` nezodpovedá žiadnému známenu typu premennej.',
-
-		'Argument `$%1$s` is not of type `%2$s`, given `%3$s`.' =>
-		'Hodnota `$%1$s` nezodpovedá typu `%2$s`. Dodaný typ `%3$s`.',
-
-		'No errors.' =>
-		'Žiadne chyby.',
-
-		'Maximum stack depth exceeded.' =>
-		'Maximálna hĺbka zásobníka prekročená.',
-
-		'Underflow or the modes mismatch.' =>
+		'Create Page' => 
 		false,
 
-		'Unexpected control character found.' =>
-		'Nájdený neočakávaný kontrolný znak.',
+		'Delete this page' => 
+		'Zmazať stránku',
 
-		'Syntax error, malformed JSON.' =>
-		'Chybný JSON zápis.',
+		'Are you sure you want to delete this page?' => 
+		'Naozaj chcete zmazať túto stránku?',
 
-		'Malformed UTF-8 characters, possibly incorrectly encoded.' =>
-		'Nesprávne formátované UTF-8 znaky, pravdepodobne pre nesprávne kódovanie. ',
+		'This is a required field.' => 
+		'Povinné pole.',
 
-		'Unknown JSON error' =>
-		'Neznáma JSON chyba',
+		'This document is not well formed.' => 
+		'Tento dokument má nesprávný formát.',
 
-		'JSON not formatted correctly' =>
-		'JSON má nesprávny formát',
+		'The following error was returned:' => 
+		'Nastala nasledujúca chyba:',
 
-		'The selected language, %s, could not be found. Using default English dictionary instead.' =>
-		'Vybraný jazyk %s nebol nájdený. Používa sa predvolený anglický slovník.',
+		'Page Template could not be written to disk.' => 
+		'Šablónu stránky sa nepodarilo uložiť na disk.',
 
-		'MySQL Error (%1$s): %2$s in query: %3$s' =>
-		'MySQL Chyba (%1$s): %2$s v požiadavke: %3$s',
+		'An index type page already exists.' => 
+		'Stránka typu ‘index‘ už existuje.',
 
-		'Unable to find a Manager class for this resource.' =>
-		'Nebolo možné nájsť Manager triedu pre tento zdroj.',
+		'A 404 type page already exists.' => 
+		'Stránka typu ‘404‘ už existuje.',
 
-		'Release Date' =>
-		'Dátum vydania',
+		'A 403 type page already exists.' => 
+		'Stránka typu ‘403‘ už existuje.',
 
-		'Attach to Page' =>
-		'Pripojiť ku Stránke',
+		'Please ensure handle contains at least one Latin-based character.' => 
+		'Prosím uistite sa, že cesta obsahuje aspoň jeden znak latinky.',
 
-		'Detach from Page' =>
-		'Odobrať zo Stránky',
+		'A page with that handle already exists' => 
+		'Stránka s danou cestou už existuje',
 
-		'All' =>
-		'Všetky',
-
-		'Please check permissions on %s' =>
-		'Prosím overte prístupové práva pre %s',
-
-		'Unsupported SSL type' =>
-		'Nepodporovaný typ SSL',
-
-		'No connection has been established to %s' =>
-		'K %s neexistuje pripojenie',
-
-		'Header fields can only contain strings' =>
-		'HLavičky môžu obsahovať iba textové reťazce',
-
-		'Can not call HELO on existing session' =>
-		'Nie je možné zavolať HELO na existujúce sedenie',
-
-		'Must call EHLO (or HELO) before calling MAIL' =>
-		'Pred požiadavkou MAIL sa musí zavolať EHLO alebo HELO',
-
-		'Only one call to MAIL may be made at a time.' =>
-		'Súčasne môže existovať iba jedna MAIL požiadavka.',
-
-		'Must call MAIL before calling RCPT' =>
-		'Pred požiadavkou RCPT sa musí zavolať MAIL',
-
-		'Must call RCPT before calling DATA' =>
-		'Pred požiadavkou DATA sa musí zavolať RCPT',
-
-		'Must call EHLO (or HELO) before calling AUTH' =>
-		"Pred požiadavkou AUTH sa musí zavolať EHLO alebo HELO",
-
-		'Can not call AUTH again.' =>
-		'AUTH sa nedá znova zavolať.',
-
-		'Unable to connect via TLS' =>
-		'Pripojenie pomocou TLS zlyhalo',
-
-		'Could not send request: %s' =>
-		'Neporadilo sa odoslať požiadavku: %s',
-
-		'%s has timed out' =>
-		'Časový limit %s vypršal',
-
-		'Could not read from %s' =>
-		'Neporadilo sa čítať z %s',
-
-		'Unable to open socket. Unknown error' =>
-		'Nie je možné otvoriť socket. Neznáma chyba',
-
-		'Unable to open socket. %s' =>
-		'Nie je možné otvoriť socket. %s',
-
-		'Unable to set timeout.' =>
-		'Nie je možné nastaviť časový limit.',
-
-		'Could not find Text Formatter %s.' =>
-		'Textový editor %s sa nepodarilo nájsť.',
-
-		'Apply' =>
-		'Použiť',
-
-		'No suitable XSLT processor was found.' =>
-		'Nenašiel sa žiaden vhodný XSLT procesor.',
-
-		'Data returned is invalid.' =>
-		'Vrátené údaje majú nesprávny formát.',
-
-		'The %s class failed to acquire a lock, check that %s exists and is writable.' =>
-		'Trieda %s nedokázala získať zamknutie, overte či %s existuje a či je zapisovateľná.',
-
-		'Transformed XML is invalid.' =>
-		'Výsledné XML má nesprávny formát.',
-
-		'Error creating field object with id %1$d, for filtering in data source %2$s. Check this field exists.' =>
-		'Chyba pri vytváraní objektu poľa s id %1$d pre filtrovanie Zdroja údajov %2$s. Skontrolujte či dané pole existuje.',
-
-		'The Section, %s, associated with the Data source, %s, could not be found.' =>
-		'Sekcia %s, prepojená so Zdrojom údajov %s, nebola nájdená.',
-
-		'Sendmail (default)' =>
-		'Sendmail (predvolené)',
-
-		'Email: Sendmail' =>
-		'E-mail: Sendmail',
-
-		'From Name' =>
-		'Meno odosielateľa',
-
-		'From Email Address' =>
-		'E-mailová adresa odosielateľa',
-
-		'SMTP' =>
-		false,
-
-		'The Envelope From Address can not contain carriage return or newlines.' =>
-		'Údaj ’Od (adresáta)’ nemôže obsahovať enter alebo nový riadok.',
-
-		'Email: SMTP' =>
-		'E-mail: SMTP',
-
-		'Host' =>
-		'Server',
-
-		'Port' =>
-		'Číslo portu',
-
-		'No encryption' =>
-		'Bez šifrovania',
-
-		'SSL encryption' =>
-		'SSL šifrovanie',
-
-		'TLS encryption' =>
-		'TLS šifrovanie',
-
-		'For a secure connection, SSL and TLS are supported. Please check the manual of your email provider for more details.' =>
-		'Pre podporu zabezpečených spojení je k dispozícii SSL a TLS. Prosím pozrite si návod od vášho poskytovateľa e-mailovej schránky pre ďalšie informácie.',
-
-		'%s Requires authentication' =>
-		'%s Vyžaduje sa prihlásenie',
-
-		'Some SMTP connections require authentication. If that is the case, enter the username/password combination below.' =>
-		'Niektoré SMTP spojenia vyžadujú prihlásenie. Ak sa vyžaduje, zadajte prihlasovacie meno a heslo do nasledujúcich polí.',
-
-		'Unknown errors where encountered when saving.' =>
+		'Unknown errors occurred while attempting to save.' => 
 		'Pri ukladaní sa vyskytli neznáme chyby.',
 
-		'Entry edited successfully.' =>
+		'Check your activity log' => 
+		'Skontrolujte váš log záznam',
+
+		'Page could not be deleted because it does not exist.' => 
+		'Stránka nemohla byť zmazaná, pretože neexistuje.',
+
+		'Page could not be deleted because it has children.' => 
+		'Stránka nemohla byť zmazaná, pretože má pridelné podstránky.',
+
+		'One or more pages could not be deleted.' => 
+		'Jedna alebo viaceré stránky nemohli byť zmazané.',
+
+		'Create a section' => 
+		'Vytvoriť sekciu',
+
+		'Entries' => 
+		'Záznamy',
+
+		'Navigation Group' => 
+		'Navigačná skupina',
+
+		'Select Section %s' => 
+		'Vybrať sekciu %s',
+
+		'Are you sure you want to delete the selected sections?' => 
+		'Naozaj chcete zmazať vybrané sekcie?',
+
+		'Delete Entries' => 
+		'Vymazať záznamy',
+
+		'Are you sure you want to delete all entries in the selected sections?' => 
+		'Naozaj chcete vymazať všetky záznamy vo vybraných sekciách?',
+
+		'Set navigation group' => 
+		'Nastaviť navigačnú skupinu',
+
+		'Fields' => 
+		'Polia',
+
+		'Add field' => 
+		'Pridať pole',
+
+		'Remove field' => 
+		'Odstrániť pole',
+
+		'Create Section' => 
+		'Vytvoriť sekciu',
+
+		'The Section, %s, could not be found.' => 
+		'Sekcia %s sa nenašla.',
+
+		'Unknown Section' => 
+		'Neznáma sekcia',
+
+		'Section updated at %s.' => 
+		'Sekcia zaktualizovaná o %s.',
+
+		'Section created at %s.' => 
+		'Sekcia vytvorena o %s.',
+
+		'View all Sections' => 
+		'Zobraziť všetky sekcie',
+
+		'View Entries' => 
+		'Zobraziť záznamy',
+
+		'View Section Entries' => 
+		'Zobraziť záznamy sekcie',
+
+		'Delete this section' => 
+		'Zmazať sekciu',
+
+		'Are you sure you want to delete this section?' => 
+		'Naozaj chcete zmazať túto sekciu?',
+
+		'A Section with the handle %s already exists' => 
+		'Sekcia s názvom %s už existuje',
+
+		'A field with this handle already exists. All handle must be unique.' => 
+		'Pole s touto cestou už existuje. Všetky cesty musia byť jedinečné.',
+
+		'There is already a field of type %s. There can only be one per section.' => 
+		'Pole typu %s už existuje. V každej sekcií môže byť iba jedno pole tohto typu.',
+
+		'An unknown database occurred while attempting to create the section.' => 
+		'Pri ukladaní sekcie sa vyskytla neznáma chyba v databáze.',
+
+		'Options' => 
+		'Možnosti',
+
+		'Hide this section from the back-end menu' => 
+		'Schovať túto sekciu v administratívnej časti',
+
+		'Allow filtering of section entries' => 
+		'Umožniť filtrovanie záznamov',
+
+		'The section could not be saved due to conflicting changes' => 
+		'Sekciu sa nepodarilo uložil pre konfliktné úpravy',
+
+		'Login' => 
+		'Prihlásiť sa',
+
+		'An email containing a customised login link has been sent to %s. It will expire in 2 hours.' => 
+		'Na e-mail %s bol odoslaný prihlasovací odkaz. Jeho platnosť vyprší do 2 hodín.',
+
+		'Enter your email address or username to be sent further instructions for logging in.' => 
+		'Zadajte Váš e-mail alebo prihlasovacie meno pre doručenie inštrukcií k obnove hesla.',
+
+		'Email Address or Username' => 
+		'E-mailová adresa, alebo prihlasovacie meno',
+
+		'Unfortunately no account was found using this information.' => 
+		'Nenašiel sa žiaden údajmi zodpovedajúci účet.',
+
+		'This Symphony instance has not been set up for emailing, %s' => 
+		'Táto inštalácia Symphony nemá nastavené zasielanie e-mailovových správ, %s',
+
+		'Send Email' => 
+		'Odoslať e-mail',
+
+		'Cancel' => 
+		'Zrušiť',
+
+		'The login details provided are incorrect.' => 
+		'Prihlasovacie údaje sú nesprávne.',
+
+		'No username was entered.' => 
+		'Nezadali ste prihlasovacie meno.',
+
+		'Password' => 
+		'Heslo',
+
+		'No password was entered.' => 
+		'Nezadali ste heslo.',
+
+		'Retrieve password?' => 
+		'Obnoviť heslo?',
+
+		'New Symphony Account Password' => 
+		'Heslo pre nový Symphony účet',
+
+		'Hi %s,' => 
+		'Dobrý deň %s,',
+
+		'A new password has been requested for your account. Login using the following link, and change your password via the Authors area:' => 
+		'Pre Váš účet bolo vyžiadané nové heslo. Prihláste sa pomocou nasledujúceho odkazu a heslo si zmeňte v sekcii Autori:',
+
+		'It will expire in 2 hours. If you did not ask for a new password, please disregard this email.' => 
+		'Platnosť odkazu vyprší do 2 hodín. Ak ste nepožiadali o nové heslo, prosím ignorujte túto správu.',
+
+		'Best Regards,' => 
+		'Úspešný deň,',
+
+		'The Symphony Team' => 
+		'Tím Symphony',
+
+		'Filter Entries' => 
+		'Filtrovať záznamy',
+
+		'Clear filter' => 
+		'Odstrániť filter',
+
+		'No filters applied yet.' => 
+		'Bez filtrovania.',
+
+		'Type and hit enter to apply filter…' => 
+		'Zadajte text a stlačte ENTER pre použitie filtra...',
+
+		'Comparison mode' => 
+		'Porovnanie',
+
+		'This request exceeds the maximum allowed request size of %s specified by your host.' => 
+		'Požiadavka prekročila povolenú veľkosť %s stanovenú serverom.',
+
+		'The Symphony configuration file, %s, is not writable. The sort order cannot be modified.' => 
+		'Konfiguračný súbor Symphony %s nemá práva na zápis. Zoradenie nemôže byť zmenené.',
+
+		'Create a new entry' => 
+		'Vytvoriť nový záznam',
+
+		'Edit Section' => 
+		'Upraviť sekciu',
+
+		'Edit Section Configuration' => 
+		'Upraviť nastavenie sekcie',
+
+		'An error occurred while retrieving filtered entries. Showing all entries instead.' => 
+		'Pri filtrovaní záznamov sa vyskytla chyba. Zobrazujem všetky záznamy.',
+
+		'%d of %d entries (filtered)' => 
+		'%d z %d záznamov (filtrované)',
+
+		'%d entries' => 
+		'%d záznamov',
+
+		'Select Entry %d' => 
+		'Vybrať záznam %d',
+
+		'Are you sure you want to delete the selected entries?' => 
+		'Naozaj chcete vymazať vybrané záznamy?',
+
+		'Set %s' => 
+		'Nastaviť %s',
+
+		'First' => 
+		'Prvá',
+
+		'&larr; Previous' => 
+		'&larr; Predchádzajúca',
+
+		'Viewing %1$s - %2$s of %3$s entries' => 
+		'Zobrazených %1$s - %2$s z celkovo %3$s záznamov',
+
+		'Go to page …' => 
+		'Prejsť na stranu ...',
+
+		'Page %1$s of %2$s' => 
+		'Strana %1$s z %2$s',
+
+		'Next &rarr;' => 
+		'Nasledujúca &rarr;',
+
+		'Last' => 
+		'Posledná',
+
+		'Fields must be added to this section before an entry can be created.' => 
+		'Sekcia musí mať zadefinované polia pred vytvorením záznamu.',
+
+		'Add fields' => 
+		'Pridať polia',
+
+		'Create Entry' => 
+		'Vytvoriť záznam',
+
+		'Some errors were encountered while attempting to save.' => 
+		'Pri ukladaní sa vyskytli chyby.',
+
+		'Unknown Entry' => 
+		'Neznámy záznam',
+
+		'The Entry, %s, could not be found.' => 
+		'Záznam %s sa nenašiel.',
+
+		'Wrong section' => 
+		'Nesprávna sekcia',
+
+		'The Entry, %s, does not belong in section %s' => 
+		'Záznam %s nepatrí do sekcie 5s',
+
+		'Entry updated at %s.' => 
+		'Záznam bol zaktualizovaný o %s.',
+
+		'Entry created at %s.' => 
+		'Záznam bol vytvorený o %s.',
+
+		'View all Entries' => 
+		'Zobraziť všetky záznamy',
+
+		'Delete this entry' => 
+		'Zmazať záznam',
+
+		'Are you sure you want to delete this entry?' => 
+		'Naozaj chcete zmazať tento záznam?',
+
+		'Linked to' => 
+		'Prepojené na',
+
+		'Links in' => 
+		'Spojenia od',
+
+		'New' => 
+		'Nový',
+
+		'Show more entries' => 
+		'Zobraziť viac záznamov',
+
+		'No links in %s' => 
+		'%s (0)',
+
+		'Show Associations' => 
+		'Zobraziť asociácie',
+
+		'The entry could not be saved due to conflicting changes' => 
+		'Záznam sa nemohol uložiť pre konfliktné úpravy',
+
+		'Create a new author' => 
+		'Vytvoriť nového autora',
+
+		'Email Address' => 
+		'E-mailová adresa',
+
+		'Last Seen' => 
+		'Naposledy prihlásený',
+
+		'Language' => 
+		'Jazyk',
+
+		'Select Author %s' => 
+		'Vybrať autora %s',
+
+		'Email this author' => 
+		'Poslať e-mail autorovi',
+
+		'Unknown' => 
+		'Neznámy',
+
+		'System Default' => 
+		'Predvolené systémom',
+
+		'You are not authorised to access this page.' => 
+		'Nemáte práva na prístup k tejto stránke.',
+
+		'Access Denied' => 
+		'Prístup zamietnutý',
+
+		'Author updated at %s.' => 
+		'Autor bol zaktualizovaný o %s.',
+
+		'Author created at %s.' => 
+		'Autor bol vytvorený o %s.',
+
+		'View all Authors' => 
+		'Zobraziť všetkých autorov',
+
+		'The author profile you requested does not exist.' => 
+		'Požadovaný profil autora neexistuje.',
+
+		'Author not found' => 
+		'Autor nenájdený',
+
+		'You are not authorised to edit other authors.' => 
+		'Nemáte práva na úpravu iných autorov.',
+
+		'Login Details' => 
+		'Prihlasovacie údaje',
+
+		'Manager' => 
+		'Manažér',
+
+		'Developer' => 
+		'Vývojár',
+
+		'Leave password fields blank to keep the current password' => 
+		'Pre zachovanie súčasného hesla nechajte polia prázdne',
+
+		'Old Password' => 
+		'Staré heslo',
+
+		'New Password' => 
+		'Nové heslo',
+
+		'Confirm Password' => 
+		'Potvrdiť heslo',
+
+		'%s Allow remote login via' => 
+		'%s Umožniť vzdialené prihlásenie pomocou',
+
+		'Default Area' => 
+		'Predvolená Sekcia',
+
+		'Sections Index' => 
+		'Zoznam sekcií',
+
+		'Custom Preferences' => 
+		'Vlastné predvoľby',
+
+		'Confirmation' => 
+		false,
+
+		'Please confirm changes to this author with your password.' => 
+		'Prosím potvrďte zmeny zadaním svojho hesla.',
+
+		'Your Password' => 
+		'Vaše heslo',
+
+		'Create Author' => 
+		'Vytvoriť autora',
+
+		'Delete this author' => 
+		'Zmazať autora',
+
+		'Are you sure you want to delete this author?' => 
+		'Naozaj chcete zmazať tohto autora?',
+
+		'You are not authorised to create authors.' => 
+		'Na vytváranie nových autorov Nemáte práva.',
+
+		'The user type is invalid. You can only create Authors.' => 
+		'Typ používateľa je neplatný. Autorov môžete iba vytvoriť.',
+
+		'Passwords did not match' => 
+		'Heslá sa nezhodujú',
+
+		'There were some problems while attempting to save. Please check below for problem fields.' => 
+		'Pri ukladaní sa vyskytli chyby. Prosím skontrolujte nižšie označené polia.',
+
+		'You are not authorised to modify this author.' => 
+		'Na úpravu používateľa nemáte práva.',
+
+		'Please provide your own password to make changes to this author.' => 
+		'Prosím zadajte Vaše vlastne heslo na potvrdenie zmien.',
+
+		'Wrong password, please enter your own password to make changes to this author.' => 
+		'Nesprávne heslo, prosím zadajte Vaše vlastne heslo na potvrdenie zmien',
+
+		'Wrong password. Enter old password to change it.' => 
+		'Nesprávne heslo. Zadajte staré heslo na jeho zmenu.',
+
+		'Wrong password. Enter old one to change email address.' => 
+		'Nesprávne heslo. Zadajte staré heslo na zmenu e-mailovej adresy.',
+
+		'You are not allowed to delete this author.' => 
+		'Na zmazanie tohto autora nemáte práva.',
+
+		'You cannot remove yourself as you are the active Author.' => 
+		'Nemôžete sa odstrániť, nakoľko ste aktívnym autorom.',
+
+		'Extensions' => 
+		'Rozšírenia',
+
+		'Links' => 
+		'Odkazy',
+
+		'Select %s Extension' => 
+		'Vybrať %s rozšírenie',
+
+		'Status unavailable' => 
+		'Stav nedostupný',
+
+		'Not installed' => 
+		'Nenainštalované',
+
+		'Disabled' => 
+		'Vypnuté',
+
+		'Enabled' => 
+		'Povolené',
+
+		'Update available' => 
+		'Dostupná aktualizácia',
+
+		'requires Symphony %s' => 
+		'vyžaduje Symphony %s',
+
+		'GitHub' => 
+		false,
+
+		'Discuss' => 
+		'Diskusia',
+
+		'Homepage' => 
+		'Webová stránka',
+
+		'Wiki' => 
+		false,
+
+		'Issues' => 
+		'Vývoj',
+
+		'Disable' => 
+		'Vypnúť',
+
+		'Uninstall' => 
+		'Odinštalovať',
+
+		'Are you sure you want to uninstall the selected extensions?' => 
+		'Naozaj chcete odinštalovať vybrané rozšírenia?',
+
+		'Preferences' => 
+		'Predvoľby',
+
+		'The Symphony configuration file, %s, or folder is not writable. You will not be able to save changes to preferences.' => 
+		'Konfiguračný súbor Symphony %s, alebo jeho priečinok, nemá práva na zápis. Vaše zmeny v predvoľbách nebude možné uložiť.',
+
+		'Preferences saved.' => 
+		'Predvoľby uložené.',
+
+		'System Language' => 
+		'Jazyk systému',
+
+		'Authors can set up a differing language in their profiles.' => 
+		'Autori si môžu nastaviť iný jazyk vo svojom profile.',
+
+		'Default Email Settings' => 
+		'Predvolené e-mail nastavenia',
+
+		'Gateway' => 
+		'Brána',
+
+		'Default Cache Settings' => 
+		'Predvolené nastavenia cache',
+
+		'An update has been found in your installation to upgrade Symphony to %s.' => 
+		'Našla sa aktualizácia systému Symphony na verziu %s.',
+
+		'View update.' => 
+		'Zobraziť aktualizáciu.',
+
+		'Your Symphony installation is up to date, but the installer was still detected. For security reasons, it should be removed.' => 
+		'Vaša Symphony inštalácia je aktuálna, ale inštalačný balík je stále jej súčasťou. Z bezpečnostných dôvodov by mal byť odstránený.',
+
+		'Remove installer?' => 
+		'Odstrániť inštalačný balík?',
+
+		'An update script has been found in your installation.' => 
+		'V inštalácii Symphony sa našiel aktualizačný balík.',
+
+		'An extension requires updating.' => 
+		'Rozšírenie vyžaduje aktualizáciu.',
+
+		'View extensions' => 
+		'Zobraziť rozšírenia.',
+
+		'Cannot request a page callback without first specifying the page.' => 
+		false,
+
+		'The page you requested does not exist.' => 
+		'Požadovaná stránka neexistuje.',
+
+		'Page Not Found' => 
+		'Stránka nebola nájdená',
+
+		'Invalid timezone %s' => 
+		'Neplatný formát časovej zóny %s',
+
+		'no leading zeros' => 
+		'bez vodiacich núl',
+
+		'The page you requested, %s, does not exist.' => 
+		'Požadovaná stránka %s neexistuje.',
+
+		'This error occurred whilst attempting to resolve the 404 page for the original request.' => 
+		'Táto chyba nastala pri pokuse rozpoznať 404 stránku pre pôvodnú požiadavku.',
+
+		'The method `%s` is deprecated.' => 
+		'Metóda `%s` je zastaraná.',
+
+		'Please use `%s` instead.' => 
+		'Prosím použite `%s`.',
+
+		'It will be removed in Symphony %s.' => 
+		'Bude to odstránené v Symphony %s.',
+
+		'No suitable engine object found' => 
+		false,
+
+		'Error creating Symphony extension manager.' => 
+		false,
+
+		'Symphony Database Error' => 
+		'Chyba Symphony databázy',
+
+		'There was a problem whilst attempting to establish a database connection. Please check all connection information is correct.' => 
+		'Pri pripájaní k databáze sa vyskytol problém. Prosím skontrolujte správnosť všetkých nastavení pripojenia.',
+
+		'There was a problem rendering this page. Please check the activity log for more details.' => 
+		'Pri generovaní stránky nastala chyba. Prosím skontrolujte log záznam pre viac informácií.',
+
+		'A message must be supplied unless the alert is of type Alert::ERROR' => 
+		false,
+
+		'Your <code>%s</code> file does not define a date format' => 
+		false,
+
+		'Log out' => 
+		'Odhlásiť sa',
+
+		'yourself' => 
+		'Vám samým',
+
+		'an unknown user' => 
+		'neznámy používateľ',
+
+		'made by %s at %s.' => 
+		'vykonané používateľom %s o %s.',
+
+		'Replace changes?' => 
+		'Nahradiť zmeny?',
+
+		'Overwrite' => 
+		'Prepísať',
+
+		'View changes.' => 
+		'Zobraziť zmeny.',
+
+		'View the updated entry' => 
+		'Zobraziť zaktualizovaný záznam',
+
+		'First name is required' => 
+		'Meno je povinné',
+
+		'Last name is required' => 
+		'Priezvisko je povinné',
+
+		'E-mail address is required' => 
+		'E-mailová adresa je povinná',
+
+		'E-mail address entered is invalid' => 
+		'Formát e-mailovej adresy je neplatný',
+
+		'E-mail address is already taken' => 
+		'Zadaná e-mailová adresa sa už používa',
+
+		'Username is required' => 
+		'Prihlasovacie meno je povinné',
+
+		'Username is already taken' => 
+		'Prihlasovacie meno je už obsadené',
+
+		'Password is required' => 
+		'Heslo je povinné',
+
+		'No records found.' => 
+		'Žiadne záznamy.',
+
+		'Data source not executed, forbidden parameter was found.' => 
+		'Zdroj údajov nebol vykonaný kvôli prítomnosti zakázaného parametra.',
+
+		'Could not find Data Source %s.' => 
+		'Zdroj údajov %s nebol nájdený.',
+
+		'If it was provided by an Extension, ensure that it is installed, and enabled.' => 
+		false,
+
+		'Edit' => 
+		'Upraviť',
+
+		'Utility' => 
+		'Nástroj',
+
+		'Email Gateway Error' => 
+		false,
+
+		'Sender Email Address can not contain carriage return or newlines.' => 
+		'E-mailová adresa odosielateľa nemôže obsahovať znaky zalomenia riadka.',
+
+		'Sender Name can not contain carriage return or newlines.' => 
+		'Meno odosielateľa nemôže obsahovať znaky zalomenia riadka.',
+
+		'Recipient address can not contain carriage return or newlines.' => 
+		'Adresa prijímateľa nemôže obsahovať znaky zalomenia riadka.',
+
+		'%s accepts boolean values only.' => 
+		'%s akceptuje iba boolean hodnoty.',
+
+		'%1$s is not a supported encoding type. Please use %2$s or %3$s. You can also use %4$s for no encoding.' => 
+		'%1$s nie je podporované kódovanie. Prosím použite %2$s alebo %3$s. Takisto môžete použiť %4$s pre variant bez kódovania.',
+
+		'Reply-To Email Address can not contain carriage return or newlines.' => 
+		'Reply-To e-mailová adresa nemôže obsahovať znaky zalomenia riadka.',
+
+		'Reply-To Name can not contain carriage return or newlines.' => 
+		'Reply-To meno príjemcu nemôže obsahovať znaky zalomenia riadka.',
+
+		'%s accepts strings only; arrays are not allowed.' => 
+		'%s akceptuje iba textové reťazce; polia nie sú povolené.',
+
+		'Email subject cannot be empty.' => 
+		'Predmet e-mailovej správy nemôže byť prázdny.',
+
+		'Sender email address cannot be empty.' => 
+		'E-mailová adresa odosielateľa nemôže byť prázdna.',
+
+		'Sender email address must be a valid email address.' => 
+		'E-mailová adresa odosielateľa musí mať platný formát.',
+
+		'Recipient email address cannot be empty.' => 
+		'E-mailová adresa prijímateľa nemôže byť prázdna.',
+
+		'The email address ‘%s’ is invalid.' => 
+		'E-mailová adresa ‘%s’ má neplatný formát.',
+
+		'No attachments or body text was set. Can not send empty email.' => 
+		'Správa neobsahuje text alebo prílohy. Prázdny e-mail nie je možné odoslať.',
+
+		'The content of the file `%s` could not be loaded.' => 
+		'Obsah súbora `%s` sa neporadilo načítať.',
+
+		'The %1$s gateway does not support the use of %2$s' => 
+		'Brána %1$s nepodporuje použitie %2$s',
+
+		'This gateway can not be found. Can not save as default.' => 
+		'Táto brána sa nenašla. Nie je možné ju uložiť ako predvolenú.',
+
+		'Could not find Email Gateway %s.' => 
+		'E-mailovú bránu %s sa nepodarilo sa nájsť.',
+
+		'Entry limit specified was not a valid type. String or Integer expected.' => 
+		'Hodnota stránkovania nemá platný formát. Očakáva sa reťazec textu alebo číslo.',
+
+		'This event has been customised and cannot be viewed from Symphony.' => 
+		'Táto udalosť bola prispôsobená a nemôže byť zobrazená cez Symphony.',
+
+		'Could not find Event %s.' => 
+		'Udalosť %s sa nepodarilo nájsť.',
+
+		'The field ‘%s’, provided by the Extension ‘%s’, is currently in use.' => 
+		'Pole ‘%s’, poskytované rozšírením ‘%s’, sa momentálne používa.',
+
+		'Please remove it from your sections prior to uninstalling or disabling.' => 
+		'Prosím odstráňte ho zo sekcií pred odinštalovaním alebo vypnutím rozšírenia.',
+
+		'The Data Source ‘%s’, provided by the Extension ‘%s’, is currently in use.' => 
+		'Zdroj údajov ‘%s’, poskytovaný rozšírením ‘%s’, sa momentálne používa.',
+
+		'Please remove it from your pages prior to uninstalling or disabling.' => 
+		'Prosím odstráňte ho zo stránok pred odinštalovaním alebo vypnutím rozšírenia.',
+
+		'The Event ‘%s’, provided by the Extension ‘%s’, is currently in use.' => 
+		'Udalosť ‘%s’, poskytovaná rozšírením ‘%s’, sa momentálne používa.',
+
+		'The Text Formatter ‘%s’, provided by the Extension ‘%s’, is currently in use.' => 
+		'Textový editor ‘%s’, poskytovaný rozšírením ‘%s’, sa momentálne používa.',
+
+		'Please remove it from your fields prior to uninstalling or disabling.' => 
+		'Prosím odstráňte ho z polí pred samotným odinštalovaním alebo vypnutím rozšírenia.',
+
+		'Missing default namespace definition.' => 
+		'Chýba definícia predvolenej znakovej sady (namespace).',
+
+		'The %1$s file for the %2$s extension is not valid XML: %3$s' => 
+		'Súbor %1$s pre rozšírenie %2$s nemá platný XML formát: %3$s',
+
+		'Could not find extension %s at location %s.' => 
+		'Rozšírenie %s sa nepodarilo nájsť na umiestnení %s.',
+
+		'Symphony Extension Missing Error' => 
+		'Chyba: Chýbajúce Symphony rozšírenie',
+
+		'New Field' => 
+		'Nové Pole',
+
+		'Label' => 
+		'Názov',
+
+		'Placement' => 
+		'Umiestnenie',
+
+		'Main content' => 
+		'Hlavná obsahová časť',
+
+		'Sidebar' => 
+		'Bočný stĺpec',
+
+		'Formatting' => 
+		'Formátovanie',
+
+		'Validation Rule' => 
+		'Kontrola správnosti',
+
+		'Association Interface' => 
+		'Rozhranie prepojení',
+
+		'Association Editor' => 
+		'Editor prepojení',
+
+		'Make this a required field' => 
+		'Označiť pole ako povinné',
+
+		'Display in entries table' => 
+		'Zobraziť v prehľade záznamov',
+
+		'Display associations in entries table' => 
+		'Zobraziť prepojenie v prehľade záznamov',
+
+		'%s is a reserved name used by the system and is not allowed for a field handle. Try using %s instead.' => 
+		'%s je vyhradený názov v systéme a nie je možné ho použiť ako názov cesty poľa. Skúste použiť %s.',
+
+		'Invalid element name. Must be valid %s.' => 
+		'Neplatný názov značky. Musí byť platný %s.',
+
+		'A field with that element name already exists. Please choose another.' => 
+		'Pole s použitým názvom značky už existuje. Prosím zvoľte iný názov.',
+
+		'Validation rule is not a valid regular expression' => 
+		'Kontrola správnosti nemá platný regulárny výraz',
+
+		'‘%s’ is a required field.' => 
+		'‘%s’ je povinné pole.',
+
+		'Find values that are an exact match for the given string.' => 
+		'Najdi hodnoty presne zhodné s daným reťazcom.',
+
+		'Find entries with a non-empty value.' => 
+		'Nájdi záznamy s nie prázdnou hodnotou.',
+
+		'Find entries with an empty value.' => 
+		'Nájdi záznamy s prázdnou hodnotou.',
+
+		'Find values that match the given <a href="%s">MySQL regular expressions</a>.' => 
+		'Nájdi hodnoty zhodné s <a href="%s">regulárnym výrazom MySQL</a>.',
+
+		'Find values that do not match the given <a href="%s">MySQL regular expressions</a>.' => 
+		'Nájdi hodnoty nie zhodné s <a href="%s">regulárnym výrazom MySQL</a>.',
+
+		'Data source output grouping is not supported by the %s field' => 
+		'Zlúčenie výstupu zdroja údajov poľom %s nie je podporované',
+
+		'The field `%1$s` does not create settings records in the `tbl_fields_%1$s`.' => 
+		false,
+
+		'Please implement the commit function in class `%s`.' => 
+		false,
+
+		'The compatibility check will will be removed in Symphony %s.' => 
+		false,
+
+		'Settings for field %s could not be found in table tbl_fields_%s.' => 
+		'Nastavenia poľa %s neboli nájdené v tabuľke tbl_fields_%s.',
+
+		'Could not find Field %1$s at %2$s.' => 
+		'Nie je možné nájsť pole %1$s v %2$s.',
+
+		'XSLT Processing Error' => 
+		'Chyba XSLT spracovania',
+
+		'Please login to view this page.' => 
+		'Prosím príhláste sa na zobrazenie tejto stránky.',
+
+		'Take me to the login page' => 
+		'Prejsť na prihlasovaciu stránku',
+
+		'Forbidden' => 
+		'Zamietnuté',
+
+		'Unable to create path - %s' => 
+		'Nie je možné vytvoriť cestu - %s',
+
+		'Unable to remove - %s' => 
+		'Nie je možné odstrániť - %s',
+
+		'Denied by permission' => 
+		'Odmietnuté právami',
+
+		'Unable to remove file - %s' => 
+		'Nie je možné odstrániť súbor - %s',
+
+		'Enforced type `%1$s` for argument `$%2$s` does not match any known variable types.' => 
+		'Vynútený typ `%1$s` pre hodnotu `$%2$s` nezodpovedá žiadnému známenu typu premennej.',
+
+		'Argument `$%1$s` is not of type `%2$s`, given `%3$s`.' => 
+		'Hodnota `$%1$s` nezodpovedá typu `%2$s`. Dodaný typ `%3$s`.',
+
+		'No errors.' => 
+		'Žiadne chyby.',
+
+		'Maximum stack depth exceeded.' => 
+		'Maximálna hĺbka zásobníka prekročená.',
+
+		'Underflow or the modes mismatch.' => 
+		false,
+
+		'Unexpected control character found.' => 
+		'Nájdený neočakávaný kontrolný znak.',
+
+		'Syntax error, malformed JSON.' => 
+		'Neplatný JSON zápis.',
+
+		'Malformed UTF-8 characters, possibly incorrectly encoded.' => 
+		'Nesprávne formátované UTF-8 znaky, pravdepodobne pre nesprávne zakódovanie.',
+
+		'Unknown JSON error' => 
+		'Neznáma JSON chyba',
+
+		'JSON not formatted correctly' => 
+		'JSON má nesprávny formát',
+
+		'The selected language, %s, could not be found. Using default English dictionary instead.' => 
+		'Vybraný jazyk %s sa neporadilo nájsť. Používa sa predvolený anglický slovník.',
+
+		'MySQL Error (%1$s): %2$s in query: %3$s' => 
+		'MySQL chyba (%1$s): %2$s v požiadavke: %3$s',
+
+		'Unable to find a Manager class for this resource.' => 
+		false,
+
+		'Event' => 
+		'Udalosť',
+
+		'DataSource' => 
+		'Zdroj údajov',
+
+		'read only' => 
+		'iba na čítanie',
+
+		'Select ' => 
+		'Vybrať ',
+
+		'Attach to Page' => 
+		'Pripojiť ku stránke',
+
+		'Detach from Page' => 
+		'Odobrať zo stránky',
+
+		'All' => 
+		'Všetky',
+
+		'Please check permissions on %s' => 
+		'Prosím overte prístupové práva pre %s',
+
+		'Unsupported SSL type' => 
+		'Nepodporovaný typ SSL',
+
+		'No connection has been established to %s' => 
+		'na %s sa nevytvorilo spojenie',
+
+		'Header fields can only contain strings' => 
+		'Hlavičky môžu obsahovať iba textové reťazce',
+
+		'Can not call HELO on existing session' => 
+		'Nie je možné zavolať HELO na existujúce sedenie',
+
+		'Must call EHLO (or HELO) before calling MAIL' => 
+		'Pred požiadavkou MAIL sa musí zavolať EHLO alebo HELO',
+
+		'Only one call to MAIL may be made at a time.' => 
+		'Súčasne môže existovať iba jedna MAIL požiadavka.',
+
+		'Must call MAIL before calling RCPT' => 
+		'Pred požiadavkou RCPT sa musí zavolať MAIL',
+
+		'Must call RCPT before calling DATA' => 
+		'Pred požiadavkou DATA sa musí zavolať RCPT',
+
+		'Must call EHLO (or HELO) before calling AUTH' => 
+		"Pred požiadavkou AUTH sa musí zavolať EHLO alebo HELO",
+
+		'Can not call AUTH again.' => 
+		'AUTH sa nedá znova zavolať.',
+
+		'Unable to connect via TLS' => 
+		'Pripojenie pomocou TLS zlyhalo',
+
+		'Could not send request: %s' => 
+		'Nebolo možné odoslať požiadavku: %s',
+
+		'%s has timed out' => 
+		'Časový limit %s vypršal',
+
+		'Could not read from %s' => 
+		'Neporadilo sa čítať z %s',
+
+		'Unable to open socket. Unknown error' => 
+		'Nie je možné otvoriť socket. Neznáma chyba.',
+
+		'Unable to open socket. %s' => 
+		'Nie je možné otvoriť socket. %s',
+
+		'Unable to set timeout.' => 
+		'Nie je možné nastaviť časový limit.',
+
+		'Could not find Text Formatter %s.' => 
+		'Textový editor %s sa nepodarilo nájsť.',
+
+		'%s ' => 
+		false,
+
+		'Actions' => 
+		'Akcie',
+
+		'Apply' => 
+		'Použiť',
+
+		'Can not add the element itself as one of its child' => 
+		'Nie je možné pridať samotný element ako jeden z jeho potomkov',
+
+		'No suitable XSLT processor was found.' => 
+		'Nenašiel sa žiaden vhodný XSLT procesor.',
+
+		'Request was rejected for having an invalid cross-site request forgery token.' => 
+		false,
+
+		'Please go back and try again.' => 
+		'Prosím vráťte sa späť a skúste to znova.',
+
+		'The use of `%s` is strongly discouraged due to severe security flaws.' => 
+		false,
+
+		'Please install the Remote Datasource extension and use `%s` instead.' => 
+		false,
+
+		'Data returned is invalid.' => 
+		'Vrátené údaje majú neplatný formát.',
+
+		'The %s class failed to acquire a lock, check that %s exists and is writable.' => 
+		'Trieda %s nedokázala získať zamknutie, overte či %s existuje a či je zapisovateľná.',
+
+		'Transformed XML is invalid.' => 
+		'Výsledné XML má neplatný formát.',
+
+		'The `%s` data source field is deprecated.' => 
+		false,
+
+		'The `%s` data source output parameter is deprecated.' => 
+		false,
+
+		'Error creating field object with id %1$d, for filtering in data source %2$s. Check this field exists.' => 
+		'Chyba pri vytváraní objektu poľa s id %1$d pre filtrovanie zdroja údajov %2$s. Skontrolujte či dané pole existuje.',
+
+		'The `%s` data source filter is deprecated.' => 
+		'Filter `%s` zdroja údajov je zastaraný.',
+
+		'The Section, %s, associated with the Data source, %s, could not be found.' => 
+		'Sekciu %s, prepojenú so zdrojom údajov %s, sa neporadilo nájsť.',
+
+		'Data source not executed, required parameter is missing.' => 
+		'Zdroj údajov nebol vykonaný, chýba požadovaný parameter.',
+
+		'The `%s` data source sort is deprecated.' => 
+		'`%s` zoradenie zdroja údajov je zastarané.',
+
+		'Sendmail (default)' => 
+		'Sendmail (predvolené)',
+
+		'Email: Sendmail' => 
+		'E-mail: Sendmail',
+
+		'From Name' => 
+		'Meno odosielateľa',
+
+		'From Email Address' => 
+		'E-mailová adresa odosielateľa',
+
+		'SMTP' => 
+		false,
+
+		'The Envelope From Address can not contain carriage return or newlines.' => 
+		'Údaj ’Od (adresáta)’ nemôže obsahovať znaky zalomenia riadka.',
+
+		'Email: SMTP' => 
+		'E-mail: SMTP',
+
+		'HELO Hostname' => 
+		false,
+
+		'A fully qualified domain name (FQDN) of your server, e.g. "www.example.com". If left empty, Symphony will attempt to find an IP address for the EHLO/HELO greeting.' => 
+		'Plne kvalifikovaný názov domény (FQDN) Vášho servera, napríklad "www.example.com". Ak ponecháte prázdne, Symphony sa pokúsi nájsť IP adresu pre EHLO/HELO príkaz.',
+
+		'Host' => 
+		'Server',
+
+		'Port' => 
+		'Číslo portu',
+
+		'No encryption' => 
+		'Bez šifrovania',
+
+		'SSL encryption' => 
+		'SSL šifrovanie',
+
+		'TLS encryption' => 
+		'TLS šifrovanie',
+
+		'For a secure connection, SSL and TLS are supported. Please check the manual of your email provider for more details.' => 
+		'Pre zabezpečené spojenie je k dispozícii SSL a TLS. Prosím pozrite si návod od Vášho poskytovateľa e-mailových služieb pre bližšie informácie.',
+
+		'%s Requires authentication' => 
+		'%s Vyžaduje sa prihlásenie',
+
+		'Some SMTP connections require authentication. If that is the case, enter the username/password combination below.' => 
+		'Niektoré SMTP spojenia vyžadujú prihlásenie. Ak je vyžadované, zadajte prihlasovacie meno a heslo do nasledujúcich polí.',
+
+		'Unknown errors where encountered when saving.' => 
+		'Pri ukladaní sa vyskytli neznáme chyby.',
+
+		'Entry edited successfully.' => 
 		'Záznam úspešne upravený.',
 
-		'Entry created successfully.' =>
+		'Entry created successfully.' => 
 		'Záznam úspešne vytvorený.',
 
-		'[Symphony] A new entry was created on %s' =>
+		'[Symphony] A new entry was created on %s' => 
 		'[Symphony] Nový záznam bol vytvorený o %s',
 
-		'Author types' =>
-		'Typ Autorov',
+		'Author types' => 
+		'Typ autorov',
 
-		'%s Allow selection of multiple authors' =>
-		'%s Umožniť výber viacerých Autorov',
+		'Allow selection of multiple authors' => 
+		'Umožniť výber viacerých autorov',
 
-		'%s Select current user by default' =>
-		'%s Predvolene vybrať aktuálneho používateľa',
+		'Select current user by default' => 
+		'Predvolene vybrať aktuálneho používateľa',
 
-		'Checkbox' =>
+		'Checkbox' => 
 		'Zaškrtávacie pole',
 
-		'No' =>
+		'Yes' => 
+		'Áno',
+
+		'No' => 
 		'Nie',
 
-		'%s Checked by default' =>
+		'%s Checked by default' => 
 		'%s Predvolene zaškrtnuté',
 
-		'Date' =>
+		'Date' => 
 		'Dátum',
 
-		'%s Pre-populate with current date' =>
-		'%s Predvyplniť dnešným dátumom',
+		'Find entries where any value is selected.' => 
+		'Nájdi záznamy s akoukoľvek vybranou hodnotou.',
 
-		'The date specified in ‘%s’ is invalid.' =>
-		'Zadaný dátum v ‘%s’ je v nesprávnom formáte.',
+		'Find entries where no value is selected.' => 
+		'Nájdi záznamy bez vybranej hodnoty.',
 
-		'Text Input' =>
+		'Default date' => 
+		'Predvolený dátum',
+
+		'optional, accepts absolute or relative dates' => 
+		'voliteľné, akceptuje abusolútne alebo relatívne dátumy',
+
+		'Display time' => 
+		'Ukázať čas',
+
+		'Show calendar' => 
+		'Zobraziť kalendár',
+
+		'The date specified in ‘%s’ is invalid.' => 
+		'Dátum uvedený v ‘%s’ má neplatný formát.',
+
+		'Text Input' => 
 		'Textové pole',
 
-		'‘%s’ contains invalid data. Please check the contents.' =>
-		'‘%s’ obsahuje chybné údaje. Prosím skontroluje obsah.',
+		'‘%s’ contains invalid data. Please check the contents.' => 
+		'‘%s’ obsahuje neplatné údaje. Prosím skontroluje obsah.',
 
-		'Select Box' =>
+		'Select Box' => 
 		'Výberové pole',
 
-		'Predefined Values' =>
-		'Prednastavené hodnoty',
+		'Static Values' => 
+		'Statické hodnoty',
 
-		'Dynamic Values' =>
+		'Dynamic Values' => 
 		'Dynamické hodnoty',
 
-		'%s Allow selection of multiple options' =>
-		'%s Umožniť výber viacerých hodnôt',
+		'Allow selection of multiple options' => 
+		'Umožniť výber viacerých hodnôt',
 
-		'available when using Dynamic Values' =>
-		'dostupné ak sa používajú Dynamické hodnoty',
+		'Sort all options alphabetically' => 
+		'Voľby zoradiť abecedne',
 
-		'%s Sort all options alphabetically' =>
-		'%s Voľby zoradiť abecedne',
-
-		'At least one source must be specified, dynamic or static.' =>
+		'At least one source must be specified, dynamic or static.' => 
 		'Aspoň jeden zdroj musí byť určený, dynamický alebo statický.',
 
-		'Tag List' =>
+		'Tag List' => 
 		'Zoznam značiek',
 
-		'Suggestion List' =>
+		'Suggestion List' => 
 		'Zoznam návrhov',
 
-		'Existing Values' =>
+		'No Suggestions' => 
+		'Žiadne návrhy',
+
+		'Existing Values' => 
 		'Existujúce hodnoty',
 
-		'\'%s\' contains invalid data. Please check the contents.' =>
-		'\'%s\' obsahuje chybné údaje. Prosím skontroluje obsah.',
+		'\'%s\' contains invalid data. Please check the contents.' => 
+		'\'%s\' obsahuje neplatné údaje. Prosím skontroluje obsah.',
 
-		'Textarea' =>
+		'Find entries where no value is selected or it is not equal to this value.' => 
+		'Nájdi záznamy bez žiadnej vybranej hodnoty alebo nie rovné tejto hodnote.',
+
+		'Find entries where the value is not equal to this value.' => 
+		'Nájdi záznamy nie rovné tejto hodnote.',
+
+		'Find entries where the value matches the regex.' => 
+		'Nájdi záznamy vyhovujúce regulárnemu výrazu.',
+
+		'Find entries where the value does not match the regex.' => 
+		'Nájdi záznamy nie vyhovujúce regulárnemu výrazu.',
+
+		'Textarea' => 
 		'Textová oblasť',
 
-		'Number of default rows' =>
+		'Number of default rows' => 
 		'Počet riadkov',
 
-		'Text Formatter' =>
+		'Text Formatter' => 
 		'Textový editor',
 
-		'‘%s’ contains invalid XML.' =>
-		'‘%s’ obsahuje chybné XML.',
+		'‘%s’ contains invalid XML.' => 
+		'‘%s’ obsahuje neplatné XML.',
 
-		'File Upload' =>
-		'Nahrávanie súboru',
+		'File Upload' => 
+		'Nahratie súbora',
 
-		'Destination Directory' =>
+		'Find files that are an exact match for the given string.' => 
+		'Nájdi súbory presne zhodné s daným textovým reťazcom.',
+
+		'Find entries where a file has been saved.' => 
+		'Nájdi záznamy s nahraným súborom.',
+
+		'Find entries where no file has been saved.' => 
+		'Nájdi záznamy bez žiadneho nahraného súbora.',
+
+		'Find files that match the given <a href="%s">MySQL regular expressions</a>.' => 
+		'Nájdi súbory zhodné s <a href="%s">regulárnym výrazom MySQL</a>.',
+
+		'Find files that do not match the given <a href="%s">MySQL regular expressions</a>.' => 
+		'Nájdi súbory nie zhodné s <a href="%s">regulárnym výrazom MySQL</a>.',
+
+		'Find files that match the given mimetype.' => 
+		'Nájdi súbory zhodné s daným typom súbora (mimetype).',
+
+		'Find files that match the given size.' => 
+		'Nájdi súbory zhodné s uvedenou veľkosťou.',
+
+		'Destination Directory' => 
 		'Cieľový priečinok',
 
-		'The destination directory, %s, does not exist.' =>
+		'The destination directory, %s, does not exist.' => 
 		'Cieľový priečinok %s neexistuje.',
 
-		'The destination directory is not writable.' =>
-		'Cieľový priečinok nemá práva na zápis.',
+		'The destination directory is not writable.' => 
+		'Cieľový priečinok nemá povolenia na zápis.',
 
-		'Destination folder is not writable.' =>
-		'Cieľový priečinok nemá práva na zápis.',
+		'Destination folder is not writable.' => 
+		'Cieľový priečinok nemá povolenia na zápis.',
 
-		'The file uploaded is no longer available. Please check that it exists, and is readable.' =>
-		'Nahraný súbor je nedostupný. Prosím skontrolujte či existuje a či má povolenie na čítanie.',
+		'The file uploaded is no longer available. Please check that it exists, and is readable.' => 
+		'Nahraný súbor nie je dostupný. Prosím skontrolujte či existuje a či má povolenie na čítanie.',
 
-		'File chosen in ‘%s’ does not match allowable file types for that field.' =>
-		'Súbor vybraný v ‘%s’ nesúhlasí s povolenými typmi súborov pre dané pole.',
+		'File chosen in ‘%s’ does not match allowable file types for that field.' => 
+		'Vybraný súbor v ‘%s’ nevyhovuje povoleným typom súborov pre dané pole.',
 
-		'File chosen in ‘%1$s’ exceeds the maximum allowed upload size of %2$s specified by your host.' =>
-		'Súbor vybraný v ‘%1$s’ prekračuje maximálnu povolenú veľkosť %2$s, stanovenú vašim serverom.',
+		'File chosen in ‘%s’ is blacklisted for that field.' => 
+		'Vybraný súbor v ‘%s’ je blokovaný (blacklist) pre dané pole.',
 
-		'File chosen in ‘%1$s’ exceeds the maximum allowed upload size of %2$s, specified by Symphony.' =>
-		'Súbor vybraný v ‘%1$s’ prekračuje maximálnu povolenú veľkosť %2$s, nastavenú v Symphony.',
+		'File chosen in ‘%1$s’ exceeds the maximum allowed upload size of %2$s specified by your host.' => 
+		'Vybraný súbor v ‘%1$s’ prekračuje maximálnu povolenú veľkosť %2$s, stanovenú vašim serverom.',
 
-		'File chosen in ‘%s’ was only partially uploaded due to an error.' =>
-		'Pre chybu bol vybraný súbor v ‘%s’ nahraný neúplne.',
+		'File chosen in ‘%1$s’ exceeds the maximum allowed upload size of %2$s, specified by Symphony.' => 
+		'Vybraný súbor v ‘%1$s’ prekračuje maximálnu povolenú veľkosť %2$s, nastavenú v Symphony.',
 
-		'Uploading ‘%s’ failed. Could not write temporary file to disk.' =>
-		'Nahratie ‘%s’ bolo neúspešné. Nebolo možné zapísať dočasný súbor na disk.',
+		'File chosen in ‘%s’ was only partially uploaded due to an error.' => 
+		'Vybraný súbor v ‘%s’ bol nahraný pre chybu len čiastočne.',
 
-		'Uploading ‘%s’ failed. File upload stopped by extension.' =>
-		'Nahratie ‘%s’ bolo neúspešné. Nahrávanie súboru zastavilo rozšírenie.',
+		'Uploading ‘%s’ failed. Could not write temporary file to disk.' => 
+		'Nahratie ‘%s’ zlyhalo. Nebolo možné zapísať dočasný súbor na disk.',
 
-		'There was an error while trying to upload the file %1$s to the target directory %2$s.' =>
+		'Uploading ‘%s’ failed. File upload stopped by extension.' => 
+		'Nahratie ‘%s’ zlyhalo. Nahrávanie súboru bolo zastavené rozšírením.',
+
+		'There was an error while trying to upload the file %1$s to the target directory %2$s.' => 
 		'Pri nahrávaní súbora %1$s do priečinka %2$s sa vyskytla chyba.',
 
-		'Database Error' =>
+		'Database Error' => 
 		'Chyba databázy',
 
-		'Uninstall extension' =>
-		'Odinštalovať Rozšírenie',
+		'Uninstall extension' => 
+		'Odinštalovať rozšírenie',
 
-		'Uninstall this extension' =>
-		'Odinštalovať toto Rozšírenie',
+		'Uninstall this extension' => 
+		'Odinštalovať toto rozšírenie',
 
-		'Often the cause of this error is a misnamed extension folder. You can try renaming %s to %s, or you can uninstall the extension to continue.' =>
-		'Častou príčinou tejto chyby je zle pomenovaný priečinok rozšírenia. Pre pokračovanie môžete skúsiť premenovať %s na %s ručne, alebo rozšírenie odinštalujte.',
+		'Sorry, but Symphony was unable to rename the folder. You can try renaming %s to %s yourself, or you can uninstall the extension to continue.' => 
+		'Symphony sa nepodarilo priečinok premenovať. Pre pokračovanie môžete skúsiť premenovať %s na %s ručne, alebo rozšírenie odinštalujte pre pokračovanie.',
 
-		'Rename folder' =>
-		'Odstrániť priečinok',
+		'Often the cause of this error is a misnamed extension folder. You can try renaming %s to %s, or you can uninstall the extension to continue.' => 
+		'Častou príčinou tejto chyby je zle pomenovaný priečinok rozšírenia. Pre pokračovanie môžete skúsiť premenovať %s na %s ručne, alebo rozšírenie odinštalujte pre pokračovanie.',
 
-		'Sorry, but Symphony was unable to rename the folder. You can try renaming %s to %s yourself, or you can uninstall the extension to continue.' =>
-		'Symphony sa priečinok nepodarilo premenovať. Pre pokračovanie môžete skúsiť premenovať %s na %s ručne, alebo rozšírenie odinštalujte.',
+		'Rename folder' => 
+		'Premenovať priečinok',
 
-		'You can try uninstalling the extension to continue, or you might want to ask on the forums' =>
+		'You can try uninstalling the extension to continue, or you might want to ask on the forums' => 
 		'Pre pokračovanie môžete rozšírenie skúsiť odinštalovať, alebo sa informujte na diskusných fórach',
 
-		'This page could not be rendered due to the following XSLT processing errors:' =>
-		'Stránka nemohla byť zobrazená kvôli nasledujúcim XSLT chybám:',
+		'This page could not be rendered due to the following XSLT processing errors:' => 
+		'Stránka nemohla byť vygenerovaná kvôli nasledujúcim XSLT chybám:',
 
-		'General' =>
+		'General' => 
 		'Všeobecne',
 
-		'Show debug view' =>
+		'Show debug view' => 
 		'Zobraziť ladiaci mód',
 
-		'Debug' =>
+		'Debug' => 
 		'Ladenie',
 
-		'Show debug view for %s' =>
+		'Show debug view for %s' => 
 		'Zobraziť ladiaci mód pre %s',
 
-		'Show line %d in debug view' =>
+		'Show line %d in debug view' => 
 		'Zobraziť riadok %d v ladiacom móde',
 
-		'Blueprints' =>
+		'Blueprints' => 
 		'Plány',
 
-		'yesterday' =>
+		'yesterday' => 
 		'včera',
 
-		'today' =>
+		'today' => 
 		'dnes',
 
-		'tomorrow' =>
+		'tomorrow' => 
 		'zajtra',
 
-		'now' =>
+		'now' => 
 		'teraz',
 
-		'Sunday' =>
+		'Sunday' => 
 		'Nedela',
 
-		'Monday' =>
+		'Monday' => 
 		'Pondelok',
 
-		'Tuesday' =>
+		'Tuesday' => 
 		'Utorok',
 
-		'Wednesday' =>
+		'Wednesday' => 
 		'Streda',
 
-		'Thursday' =>
+		'Thursday' => 
 		'Štvrtok',
 
-		'Friday' =>
+		'Friday' => 
 		'Piatok',
 
-		'Saturday' =>
+		'Saturday' => 
 		'Sobota',
 
-		'Sun' =>
+		'Sun' => 
 		'Ne',
 
-		'Mon' =>
+		'Mon' => 
 		'Po',
 
-		'Tue' =>
+		'Tue' => 
 		'Ut',
 
-		'Wed' =>
+		'Wed' => 
 		'Str',
 
-		'Thu' =>
+		'Thu' => 
 		'Štv',
 
-		'Fri' =>
+		'Fri' => 
 		'Pia',
 
-		'Sat' =>
+		'Sat' => 
 		'So',
 
-		'January' =>
+		'January' => 
 		'Január',
 
-		'February' =>
+		'February' => 
 		'Február',
 
-		'March' =>
+		'March' => 
 		'Marec',
 
-		'April' =>
+		'April' => 
 		'Apríl',
 
-		'May' =>
+		'May' => 
 		'Máj',
 
-		'June' =>
+		'June' => 
 		'Jún',
 
-		'July' =>
+		'July' => 
 		'Júl',
 
-		'August' =>
+		'August' => 
 		'August',
 
-		'September' =>
+		'September' => 
 		'September',
 
-		'October' =>
+		'October' => 
 		'Október',
 
-		'November' =>
+		'November' => 
 		'November',
 
-		'December' =>
+		'December' => 
 		'December',
 
-		'Jan' =>
+		'Jan' => 
 		false,
 
-		'Feb' =>
+		'Feb' => 
 		false,
 
-		'Mar' =>
+		'Mar' => 
 		false,
 
-		'Apr' =>
+		'Apr' => 
 		false,
 
-		'Jun' =>
+		'Jun' => 
 		'Jún',
 
-		'Jul' =>
+		'Jul' => 
 		'Júl',
 
-		'Aug' =>
+		'Aug' => 
 		false,
 
-		'Sep' =>
+		'Sep' => 
 		false,
 
-		'Oct' =>
+		'Oct' => 
 		'Okt',
 
-		'Nov' =>
+		'Nov' => 
 		false,
 
-		'Dec' =>
+		'Dec' => 
 		false,
 
-		'sec' =>
+		'sec' => 
 		'sek',
 
-		'second' =>
+		'second' => 
 		'sekunda',
 
-		'min' =>
+		'min' => 
 		false,
 
-		'minute' =>
+		'minute' => 
 		'minúta',
 
-		'hour' =>
+		'hour' => 
 		'hodina',
 
-		'day' =>
+		'day' => 
 		'deň',
 
-		'fortnight' =>
+		'fortnight' => 
 		'dva týždne',
 
-		'forthnight' =>
+		'forthnight' => 
 		'dva týždne',
 
-		'month' =>
+		'month' => 
 		'mesiac',
 
-		'year' =>
+		'year' => 
 		'rok',
 
-		'secs' =>
+		'secs' => 
 		'sek.',
 
-		'seconds' =>
+		'seconds' => 
 		'sekúnd',
 
-		'mins' =>
+		'mins' => 
 		'min.',
 
-		'minutes' =>
+		'minutes' => 
 		'minút',
 
-		'hours' =>
+		'hours' => 
 		'hodín',
 
-		'days' =>
+		'days' => 
 		'dní',
 
-		'fortnights' =>
+		'fortnights' => 
 		'dvoch týždňov',
 
-		'forthnights' =>
+		'forthnights' => 
 		'dvoch týždňov',
 
-		'months' =>
+		'months' => 
 		'mesiacov',
 
-		'years' =>
+		'years' => 
 		'rokov',
 
-		'weekday' =>
+		'weekday' => 
 		'pracovný deň',
 
-		'weekdays' =>
+		'weekdays' => 
 		'pracovné dni',
 
-		'week' =>
+		'week' => 
 		'týždeň',
 
-		'weeks' =>
+		'weeks' => 
 		'týždne',
 
-		'first' =>
+		'first' => 
 		'prvý',
 
-		'third' =>
+		'third' => 
 		'tretí',
 
-		'fourth' =>
+		'fourth' => 
 		'štvrtý',
 
-		'fifth' =>
+		'fifth' => 
 		'piaty',
 
-		'sixth' =>
+		'sixth' => 
 		'šiesty',
 
-		'seventh' =>
+		'seventh' => 
 		'siedmy',
 
-		'eighth' =>
+		'eighth' => 
 		'ôsmy',
 
-		'ninth' =>
+		'ninth' => 
 		'deviaty',
 
-		'tenth' =>
+		'tenth' => 
 		'desiaty',
 
-		'eleventh' =>
+		'eleventh' => 
 		'jedenásty',
 
-		'twelfth' =>
+		'twelfth' => 
 		'dvanásty',
 
-		'last' =>
+		'last' => 
 		'posledný',
 
-		'previous' =>
+		'previous' => 
 		'predchádzajúce',
 
-		'this' =>
+		'this' => 
 		'tento',
 
-        // Namespace
+		/* Namespace */
 
 		'/blueprints/datasources' => array(
 
-			'Create another?' =>
+			'Create another?' => 
 			'Vytvoriť ďalší?',
 
 		),
 
 		'/publish' => array(
 
-			'Create another?' =>
+			'Create another?' => 
 			'Vytvoriť ďalší?',
 
 		),
 
 		'/system/authors' => array(
 
-			'Create another?' =>
+			'Create another?' => 
 			'Vytvoriť ďalšieho?',
 
 		),
@@ -1961,28 +2250,39 @@
 	 	'ŉ' => 'n',
 
 		// Symbolic
-
-	 	'\(' => null, 	'\)' => null, 	',' => null,
+		
+	 	'(' => null, 	')' => null, 	',' => null,
 	 	'–' => '-', 	'－' => '-', 	'„' => '"',
 	 	'“' => '"', 	'”' => '"', 	'—' => '-',
 	 	'¿' => null, 	'‽' => null, 	'¡' => null,
 	 	'©' => 'c', 	'«' => '"', 	'»' => '"',
 
 		// Special characters
-
+		
 	 	'™' => 'TM',
+	 	'®' => 'r',
+	 	'|' => '-',
+	 	'.' => '-',
+	 	'=' => '-',
+	 	' ' => '-',
+	 	'―' => '-',
+	 	'‑' => '-',
+	 	'#' => null,
+	 	'{' => null,
+	 	'}' => null,
+	 	'*' => null,
 	 	'Nº' => 'číslo',
 	 	'№' => 'číslo',
 	 	'°' => 'stupňov',
 	 	'º' => null,
 
 		// Other characters
-
-
+		
+	
 	);
-
+	
 	$regexp = array(
-
+	
 		// Ampersands
 
 	 	'/^&(?!&)$/' => '-',
@@ -1991,8 +2291,8 @@
 	 	'/&(?!&)/' => '-a-',
 
 		// Other characters
-
-
+		
+	
 	);
 
 	$transliterations = array(
